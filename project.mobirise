@@ -265,7 +265,7 @@
           "_name": "header3",
           "_anchor": "header3-1m",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
