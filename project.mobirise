@@ -984,7 +984,7 @@
           "_anchor": "footer1-2h",
           "_params": {
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
