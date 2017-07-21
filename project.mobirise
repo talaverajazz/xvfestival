@@ -478,7 +478,7 @@
           "_name": "header3",
           "_anchor": "header3-1f",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "2",
             "bgColor": "#2e2e2e",
             "showMeta": true
@@ -828,7 +828,7 @@
           "_name": "header3",
           "_anchor": "header3-1t",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
@@ -865,7 +865,7 @@
           "_name": "header3",
           "_anchor": "header3-1p",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
@@ -902,7 +902,7 @@
           "_name": "header3",
           "_anchor": "header3-1s",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
