@@ -316,8 +316,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Expo 15 Aniversario Festival Jazz Talavera",
+              "title": "Expo 15 Aniversario Festival Jazz Talavera",
               "linkInNewWindow": false
             }
           },
@@ -332,8 +332,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Picnic Jazz XV Festival Jazz Talavera",
+              "title": "Picnic Jazz XV Festival Jazz Talavera",
               "linkInNewWindow": false
             }
           },
@@ -435,8 +435,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/22-1400x1400.jpg",
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "V Certamen Jóvenes Músicos Jazz",
+              "title": "V Certamen Jóvenes Músicos Jazz",
               "linkInNewWindow": false
             },
             "video": {
@@ -452,7 +452,7 @@
             }
           },
           "title": "22 DE JULIO SÁBADO",
-          "text": "<i>V CERTAMEN JÓVENES MUSICOS DE JAZZ</i>",
+          "text": "<i>V CERTAMEN JÓVENES MÚSICOS DE JAZZ</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -521,8 +521,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "The Machetazo",
+              "title": "The Machetazo",
               "linkInNewWindow": false
             }
           },
@@ -537,8 +537,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Leganes Big Band",
+              "title": "Leganes Big Band",
               "linkInNewWindow": false
             }
           },
@@ -630,8 +630,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Javier Elorrieta Quintet",
+              "title": "Javier Elorrieta Quintet",
               "linkInNewWindow": false
             }
           },
@@ -646,8 +646,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Kenny Garrett Quintet",
+              "title": "Kenny Garrett Quintet",
               "linkInNewWindow": false
             }
           },
@@ -739,8 +739,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Noa Lur Quintet",
+              "title": "Noa Lur Quintet",
               "linkInNewWindow": false
             }
           },
@@ -755,8 +755,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Pedro Ruy-Blas Quartet",
+              "title": "Pedro Ruy-Blas Quartet",
               "linkInNewWindow": false
             }
           },
