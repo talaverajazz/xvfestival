@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 91,
+    "uniqCompNum": 92,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -184,7 +184,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
@@ -204,7 +204,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERA JAZZ</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#msg-box3-16\" aria-expanded=\"true\">PROGRAMA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1m\">INAUGURACIÓN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-26\">V CERTAMEN JOVENES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1f\">PLAZA DEL PAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1p\">JAZZ DE MEDIANOCHE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons4-2g\">SIGUENOS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-26\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-2g\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box8",
@@ -975,6 +975,37 @@
             "overlayColor": "#7e9b9f"
           },
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-2j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "COMPARTE!"
         },
         {
           "_tags": [
