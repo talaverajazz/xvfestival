@@ -227,7 +227,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -267,7 +267,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#f2f2f2",
             "showMeta": true
           },
           "title": "21 DE JULIO VIERNES",
@@ -293,7 +293,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/21-2000x2798.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#f2f2f2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -415,7 +415,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#f2f2f2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -830,7 +830,7 @@
           "_params": {
             "paddingTop": "4",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#f2f2f2",
             "showMeta": true
           },
           "title": "JAZZ EN LA MAÑANA",
@@ -845,7 +845,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text1": "<p>21 DE JULIO VIERNES en EL SALVADOR: Inauguración Festival y Exposición Fotos de los Festivales.</p><p><br></p><p>22 DE JULIO SABADO en PLACERES: COMO SE HIZO EL CARTEL por Lucas Fernández y Alberto Torres.</p><p><br></p><p>24 DE JULIO LUNES en CAFETERÍA MIEL Y LIMÓN: Degustación \"Sausage cajún\" y Música Chicago.</p><p><br></p><p>25 DE JULIO MARTES en EL SALVADOR: GRANDES VOCES DE JAZZ por Bene Tapetado.</p><p><br></p>",
           "text2": "<p>26 DE JULIO MIERCOLES en CENTRO C. RAFAEL MORALES: LA CANCIÓN FRANCESA por Javier Elorrieta.</p><p><br></p><p>27 DE JULIO JUEVES en CAFETERÍA SIROPE: Degustación Potato Jazz y homenaje a John Coltrane.</p><p><br></p><p>28 DE JULIO VIERNES en RAÍCES (Carlos Maldonado): Degustación Tapa-Jazz con Música Swing.</p><p><br></p><p>29 DE JULIO SABADO en BAR LISBOA: JAZZ-CAÑA \"A todo Jazz-Fado\" y Mighalas para degustar.</p><p><br></p>"
@@ -867,7 +867,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#f2f2f2",
             "showMeta": true
           },
           "title": "JAZZ DE MEDIANOCHE",
@@ -882,7 +882,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text1": "<p>21 DE JULIO VIERNES en LA CUBA: Música para escuchar \"Detroit la cuna del Soul\".</p><p><br></p><p>22 DE JULIO SABADO en FLY TO MANHATTAN: Música en vivo \"JamSession\".</p><p><br></p><p>24 DE JULIO LUNES en FLY TO MANHATTAN: Música para escuchar \"Recordando a Dizzy Gillespie\" y Noche de cine \"El cantor de Jazz\".</p><p><br></p><p>25 DE JULIO MARTES en TERRAZA 1990: Música en vivo \"Dark Chocolat\".</p><p><br></p><p>26 DE JULIO MIERCOLES en FLY TO MANHATTAN: Música en vivo \"Raúl Gama Trío\".</p>",
           "text2": "<p>27 DE JULIO JUEVES en KOYOTE SALOON: Música en vivo \"Electric Air Chords\".</p><p><br></p><p>28 DE JULIO VIERNES en DIVERXA 53: Música en vivo \"Meliazz Quartet\".</p><p><br></p><p>29 DE JULIO SABADO en EL CASINO: Música en vivo \"Clausura del Festival y Jam Varios Artistas\".</p><p><br></p><p>11 DE AGOSTO VIERNES en LA CREMME: PREMIO FOTOGRAFÍA DEL FESTIVAL (100€).</p>"
@@ -904,7 +904,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#f2f2f2",
             "showMeta": true
           },
           "title": "JAZZ EN LAS ONDAS",
@@ -919,7 +919,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text1": "<p>24 DE JULIO LUNES CADENA SER.</p><p><br></p><p>25 DE JULIO MARTES ONDA CERO.</p><p><br></p><p>26 DE JULIO MIERCOLES COPE.</p><p>.</p>",
           "text2": "<p>27 DE JULIO JUEVES UNICA FM.</p><p><br></p><p>28 DE JULIO VIERNES OID RADIO.</p><p><br></p><p><br></p>"
@@ -968,7 +968,7 @@
             "postToLoad": 3,
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "bgImageRadio": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#f2f2f2",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.6,
@@ -1030,7 +1030,7 @@
             "spacing": 1,
             "showText": false,
             "filter": true,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": false
