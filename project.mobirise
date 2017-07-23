@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "talaverajazzfestival",
+    "name": "XVFESTIVAL",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 99,
+    "uniqCompNum": 107,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -987,17 +987,17 @@
             "paddingBottom": "1",
             "images": [
               {
-                "tags": "Inauguración",
+                "tags": "21Julio",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/21-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/21-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Inauguración",
+                "tags": "21Julio",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1007,7 +1007,7 @@
                 "active": false
               },
               {
-                "tags": "Inauguración",
+                "tags": "21Julio",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1017,14 +1017,14 @@
                 "active": false
               },
               {
-                "tags": "Inauguración",
+                "tags": "21Julio",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/21-1-2000x1488-800x595.jpg",
                 "image": "@PROJECT_PATH@/assets/images/21-1-2000x1488.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
@@ -1032,8 +1032,8 @@
             "filter": true,
             "bgColor": "fff",
             "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            "fullWidth": true,
+            "showBullets": false
           },
           "_anchor": "gallery4-2q",
           "articleLayout": false,
