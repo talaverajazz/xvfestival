@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
@@ -423,7 +423,7 @@ h6,
   font-size: 23px;
 }
 #msg-box6-2b B {
-  font-family: 'Lora', serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 20px;
   color: #e1dcd4;
 }
@@ -496,6 +496,7 @@ h6,
 }
 #msg-box3-16 .mbr-section-title {
   font-size: 48px;
+  color: #000000;
 }
 #header3-1m .mbr-section-title,
 #header3-1m .mbr-section-subtitle {
@@ -540,6 +541,14 @@ h6,
   font-size: 36px;
   text-align: center;
 }
+#features3-1c H5 {
+  color: #5b5b5b;
+  text-align: right;
+}
+#features3-1c SPAN {
+  text-align: center;
+  color: #5b5b5b;
+}
 #header3-1t .mbr-section-title,
 #header3-1t .mbr-section-subtitle {
   text-align: center;
@@ -561,11 +570,95 @@ h6,
 #header3-1s H3 {
   font-size: 36px;
 }
+#testimonials2-3u .mbr-section-title {
+  font-size: 36px;
+}
+#testimonials2-3u .card-block P {
+  text-align: left;
+}
 #social-buttons4-2g .mbr-section-title,
 #social-buttons4-2g .btn-social {
   color: #fff;
 }
 #social-buttons3-2j .mbr-section-title,
 #social-buttons3-2j .btn-social {
+  color: #fff;
+}
+
+
+#msg-box2-3s .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-3s .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#msg-box5-3r .btn {
+  font-size: 36px;
+}
+#menu-30 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-30 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#menu-30 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-30 .close-icon::before,
+#menu-30 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-30 .link,
+#menu-30 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#menu-30 .link {
+  font-size: 1.15rem;
+}
+#menu-30 .dropdown-item,
+#menu-30 .nav-dropdown-sm .link {
+  font-size: 1.245rem;
+}
+#menu-30 .link:hover,
+#menu-30 .dropdown-item:hover,
+#menu-30 .link:focus,
+#menu-30 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-30 .link[aria-expanded="true"],
+#menu-30 .dropdown-menu {
+  background: #141414;
+}
+#menu-30 .nav-dropdown-sm .link:focus,
+#menu-30 .nav-dropdown-sm .link:hover,
+#menu-30 .nav-dropdown-sm .dropdown-item:focus,
+#menu-30 .nav-dropdown-sm .dropdown-item:hover {
+  background: #262626!important;
+}
+#menu-30 .navbar,
+#menu-30 .nav-dropdown-sm,
+#menu-30 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-30 .nav-dropdown-sm .dropdown-menu {
+  background: #2e2e2e;
+}
+#menu-30 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-30 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-30 .bg-color.transparent.opened .link:hover,
+#menu-30 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-30 .link[aria-expanded="true"],
+#menu-30 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#social-buttons3-3i .mbr-section-title,
+#social-buttons3-3i .btn-social {
   color: #fff;
 }
