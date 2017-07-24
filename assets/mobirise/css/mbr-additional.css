@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -526,6 +527,11 @@ h6,
   color: #8c8c8c;
   font-size: 32px;
 }
+#msg-box5-46 P {
+  font-family: 'Lora', serif;
+  font-size: 32px;
+  color: #8c8c8c;
+}
 #header3-1f .mbr-section-title,
 #header3-1f .mbr-section-subtitle {
   text-align: center;
@@ -583,9 +589,15 @@ h6,
 #social-buttons4-2g .btn-social {
   color: #fff;
 }
+#buttons1-44 .btn {
+  font-size: 25px;
+}
 #social-buttons3-2j .mbr-section-title,
 #social-buttons3-2j .btn-social {
   color: #fff;
+}
+#social-buttons3-2j .mbr-section-title {
+  font-size: 36px;
 }
 
 
