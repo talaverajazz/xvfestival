@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "XVFESTIVAL",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 145,
+    "uniqCompNum": 147,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -891,12 +891,17 @@
           "_name": "content6",
           "_anchor": "content6-1q",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text1": "<p>21 DE JULIO VIERNES en LA CUBA: Música para escuchar \"Detroit la cuna del Soul\".</p><p><br></p><p>22 DE JULIO SABADO en FLY TO MANHATTAN: Música en vivo \"JamSession\".</p><p><br></p><p>24 DE JULIO LUNES en FLY TO MANHATTAN: Música para escuchar \"Recordando a Dizzy Gillespie\" y Noche de cine \"El cantor de Jazz\".</p><p><br></p><p>25 DE JULIO MARTES en TERRAZA 1990: Música en vivo \"Dark Chocolat\".</p><p><br></p><p>26 DE JULIO MIERCOLES en FLY TO MANHATTAN: Música en vivo \"Raúl Gama Trío\".</p>",
-          "text2": "<p>27 DE JULIO JUEVES en KOYOTE SALOON: Música en vivo \"Electric Air Chords\".</p><p><br></p><p>28 DE JULIO VIERNES en DIVERXA 53: Música en vivo \"Meliazz Quartet\".</p><p><br></p><p>29 DE JULIO SABADO en EL CASINO: Música en vivo \"Clausura del Festival y Jam Varios Artistas\".</p><p><br></p><p>11 DE AGOSTO VIERNES en LA CREMME: PREMIO FOTOGRAFÍA DEL FESTIVAL (100€).</p>"
+          "text1": "<p>21 DE JULIO VIERNES en LA CUBA: Música para escuchar \"Detroit la cuna del Soul\".</p><p><br></p><p>22 DE JULIO SABADO en FLY TO MANHATTAN: Música en vivo \"JamSession\".</p><p><br></p><p>24 DE JULIO LUNES en FLY TO MANHATTAN: Música para escuchar \"Recordando a Dizzy Gillespie\" y Noche de cine \"El cantor de Jazz\".</p><p><br></p><p>25 DE JULIO MARTES en TERRAZA 1990: Música en vivo <b>\"Dark Chocolat\"</b>.</p><p><br></p><p>26 DE JULIO MIERCOLES en FLY TO MANHATTAN: Música en vivo <b>\"Raúl Gama Trío\"</b>.</p>",
+          "text2": "<p>27 DE JULIO JUEVES en KOYOTE SALOON: Música en vivo <b>\"Electric Air Chords\"</b>.</p><p><br></p><p>28 DE JULIO VIERNES en DIVERXA 53: Música en vivo <b>\"MelJazz Quartet\"</b>.</p><p><br></p><p>29 DE JULIO SABADO en EL CASINO: Música en vivo \"Clausura del Festival y Jam Varios Artistas\".</p><p><br></p><p>11 DE AGOSTO VIERNES en LA CREMME: PREMIO FOTOGRAFÍA DEL FESTIVAL (100€).</p>",
+          "_styles": {
+            "B": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_styles": {
