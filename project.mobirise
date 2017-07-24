@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "name": "XVFESTIVAL",
     "theme": {
       "name": "mobirise3",
@@ -181,7 +181,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
-            "sticky": false,
+            "sticky": true,
             "logo": true,
             "showBrand": true,
             "collapsed": false,
@@ -1269,7 +1269,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
-            "sticky": false,
+            "sticky": true,
             "logo": true,
             "showBrand": true,
             "collapsed": false,
