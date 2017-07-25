@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "XVFESTIVAL",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 151,
+    "uniqCompNum": 160,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -52,8 +52,8 @@
               "font-size": "23px"
             },
             "B": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px",
               "color": "#e1dcd4"
             }
@@ -109,7 +109,7 @@
             }
           },
           "title": "INTRO WITH BACKGROUND VIDEO",
-          "text": "DEL 21 AL 29 DE JULIO DE&nbsp;2017",
+          "text": "<i><b>DEL 21 AL 29 DE JULIO DE&nbsp;2017</b></i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -120,7 +120,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -130,14 +131,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-family": "'Roboto Condensed', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -172,11 +173,11 @@
           "_anchor": "menu-1i",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "1.15",
+            "fontSize": "0.9",
             "fontName": {
-              "name": "Roboto Condensed",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "css": "'Roboto Condensed', sans-serif"
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -203,7 +204,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERAJAZZFESTIVAL</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERAJAZZ FESTIVAL</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-26\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-3u\" aria-expanded=\"false\">CERTAMEN FOTOGRAFÍAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-2g\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">IMAGENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -213,7 +214,7 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "font-size": "48px",
+              "font-size": "46px",
               "color": "#000000"
             }
           },
@@ -223,8 +224,8 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-16",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -238,11 +239,11 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButton": false
           },
           "title": "PROGRAMA",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "text": "Toda la programación del XV Festival de Jazz 'Ciudad de Talavera'. A celebrar desde el &nbsp;21 de Julio hasta el 29 de Julio de 2017.&nbsp;",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -251,10 +252,10 @@
               "text-align": "center"
             },
             "SMALL": {
-              "font-size": "32px"
+              "font-size": "30px"
             },
             "H3": {
-              "font-size": "46px"
+              "font-size": "36px"
             },
             "B": {
               "font-size": "32px"
@@ -324,7 +325,7 @@
           },
           "title1": "CENTRO CULTURAL 'EL SALVADOR'",
           "subtitle1": "13:00 HORAS",
-          "caption1": "- PRESENTACIÓN FESTIVAL<br>- EXPOSICION FOTOS DEL FESTIVAL DE JAZZ 'CIUDAD DE TALAVERA'",
+          "caption1": "- PRESENTACIÓN FESTIVAL<br>- EXPOSICION FOTOS TODOS FESTIVALES DE JAZZ 'CIUDAD DE TALAVERA'",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -405,7 +406,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "right",
               "color": "#8c8c8c",
-              "font-size": "32px"
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_anchor": "msg-box5-26",
@@ -467,6 +471,12 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
               "color": "#8c8c8c"
+            },
+            "H3": {
+              "font-size": "36px"
+            },
+            "I": {
+              "font-size": "30px"
             }
           },
           "_anchor": "msg-box5-46",
@@ -514,7 +524,7 @@
             }
           },
           "title": "23 JULIO DOMINGO",
-          "text": "<i>JAZZ EN LA CREMME 22:00 HORAS</i><br>Jorge Castañeda &amp; Sibyl González<i><br></i>",
+          "text": "<i>JAZZ EN LA CREMME 22:00 HORAS</i><br><i>Jorge Castañeda &amp; Sibyl González<br></i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Jorge Castañeda &amp; Sibyl González</a>"
         },
         {
@@ -553,6 +563,20 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#cccccc",
+              "font-size": "30px"
+            },
+            "H5": {
+              "color": "#c1c1c1",
+              "font-size": "20px"
+            },
+            "P": {
+              "font-size": "12px",
+              "color": "#c1c1c1"
+            }
+          },
           "_anchor": "features3-1d",
           "_params": {
             "paddingTop": "0",
@@ -573,7 +597,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
-            "ShowTexts": false,
+            "ShowTexts": true,
             "showButtons": false
           },
           "media1": {
@@ -589,8 +613,8 @@
             }
           },
           "title1": "THE MACHETAZO",
-          "subtitle1": "Nacho Fernández (g); Jorge Castañeda (p); Daniel Juárez (ts); Darío Guibert (ds).<br>LUNES 24 DE JULIO 22:30 HORAS",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "<b>LUNES 24 DE JULIO 22:30 HORAS</b>",
+          "caption1": "Nacho Fernández (g); Jorge Castañeda (p); Daniel Juárez (ts); Darío Guibert (ds).<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -605,138 +629,8 @@
             }
           },
           "title2": "LEGANES BIG BAND con DAVID DOMIMIQUE",
-          "subtitle2": "Victor Muñoz (as,cl,fl); L. Miguel Rodríguez (as); M. Ángel Pantoja, Javier Ochoa (ts); Ricardo Mateos (bs); Ängel M. Campos, Juan Moreno, Noelia Garcia, Vicente Riera (tp); Jorge Moreno, Fernando Jorge, Rebeca Muñoz, Santiago Rojo (tb); Emilio Orejuela (g); Raúl Santana (p); Fer Vilar (b); Adrián Alameda (ds); David Dominique (v); Juan Moreno (arr, dir).<br>MARTES 25 DE JULIO 22:30 HORAS",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H4": {
-              "color": "#cccccc"
-            },
-            "H5": {
-              "color": "#c1c1c1"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H5": {
-              "color": "#c1c1c1",
-              "text-align": "center"
-            },
-            "SPAN": {
-              "text-align": "center",
-              "color": "#5b5b5b"
-            },
-            "H4": {
-              "color": "#cccccc"
-            }
-          },
-          "_anchor": "features3-1c",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": false,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/26-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Javier Elorrieta Quintet",
-              "title": "Javier Elorrieta Quintet",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "JAVIER ELORRIETA QUINTET",
-          "subtitle1": "Javier Elorrieta (v); Domingo J. Sánchez (p); Juan Muro (sx); Richie Ferrer (b); Antonio Calero (ds).<br>MIÉRCOLES 26 DE JULIO 2230 HORAS<br><br>",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/27-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Kenny Garrett Quintet",
-              "title": "Kenny Garrett Quintet",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "KENNY GARRETT QUINTET",
-          "subtitle2": "Keny Garrett (as, ss); Corcoran Holt (b); Marcus Baylor (ds); Vernell Brown (p); Rudy Bird (perc).<br>JUEVES 27 DE JULIO 22.30 HORAS",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "<b>MARTES 25 DE JULIO 22:30 HORAS</b>",
+          "caption2": "Victor Muñoz (as,cl,fl); L. Miguel Rodríguez (as); M. Ángel Pantoja, Javier Ochoa (ts); Ricardo Mateos (bs); Ängel M. Campos, Juan Moreno, Noelia Garcia, Vicente Riera (tp); Jorge Moreno, Fernando Jorge, Rebeca Muñoz, Santiago Rojo (tb); Emilio Orejuela (g); Raúl Santana (p); Fer Vilar (b); Adrián Alameda (ds); David Dominique (v); Juan Moreno (arr, dir).<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -792,7 +686,26 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-1e",
+          "_styles": {
+            "H5": {
+              "color": "#c1c1c1",
+              "text-align": "center",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "text-align": "center",
+              "color": "#5b5b5b"
+            },
+            "H4": {
+              "color": "#cccccc",
+              "font-size": "30px"
+            },
+            "P": {
+              "color": "#c1c1c1",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "features3-1c",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
@@ -812,40 +725,40 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
-            "ShowTexts": false,
+            "ShowTexts": true,
             "showButtons": false
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/28-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/26-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Noa Lur Quintet",
-              "title": "Noa Lur Quintet",
+              "alt": "Javier Elorrieta Quintet",
+              "title": "Javier Elorrieta Quintet",
               "linkInNewWindow": false
             }
           },
-          "title1": "NOA LUR QUINTET",
-          "subtitle1": "Noa Lur (v); Jorge Vera (key); Mario Carrillo (b); Álberto Brenes (ds); Rafel Águila (ts,fl).<br>SÁBADO 29 DE JULIO 22:30 HORAS",
-          "caption1": "VIERNES 28 DE JULIO 22:30 HORAS",
+          "title1": "JAVIER ELORRIETA QUINTET",
+          "subtitle1": "<b>MIÉRCOLES 26 DE JULIO 22:30 HORAS</b>",
+          "caption1": "Javier Elorrieta (v); Domingo J. Sánchez (p); Juan Muro (sx); Richie Ferrer (b); Antonio Calero (ds).<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/29-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Pedro Ruy-Blas Quartet",
-              "title": "Pedro Ruy-Blas Quartet",
+              "alt": "Kenny Garrett Quintet",
+              "title": "Kenny Garrett Quintet",
               "linkInNewWindow": false
             }
           },
-          "title2": "PEDRO RUY-BLAS QUARTET",
-          "subtitle2": "Pedro Ruy-Blas (v); Mariano Díaz (p); Victor Merlo (b); Daniel García Bruno (ds).<br><div>SÁBADO 29 DE JULIO 22:30 HORAS</div>",
-          "caption2": "SÁBADO 29 DE JULIO 22:30 HORAS",
+          "title2": "KENNY GARRETT QUINTET",
+          "subtitle2": "<b>JUEVES 27 DE JULIO 22.30 HORAS</b>",
+          "caption2": "Kenny Garrett (as, ss); Corcoran Holt (b); Marcus Baylor (ds); Vernell Brown (p); Rudy Bird (perc).<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -894,22 +807,134 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
           "_styles": {
             "H4": {
-              "color": "#cccccc"
+              "color": "#cccccc",
+              "font-size": "30px"
             },
             "P": {
-              "color": "#cccccc"
+              "color": "#cccccc",
+              "font-size": "12px"
             },
             "DIV": {
               "color": "#c1c1c1"
             },
             "H5": {
               "text-align": "center",
-              "color": "#c1c1c1"
+              "color": "#c1c1c1",
+              "font-size": "20px"
             }
-          }
+          },
+          "_anchor": "features3-1e",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/28-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Noa Lur Quintet",
+              "title": "Noa Lur Quintet",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "NOA LUR QUINTET",
+          "subtitle1": "<b>VIERNES 28 DE JULIO 22:30 HORAS</b><br>",
+          "caption1": "Noa Lur (v); Jorge Vera (key); Mario Carrillo (b); Álberto Brenes (ds); Rafel Águila (ts,fl).",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/29-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Pedro Ruy-Blas Quartet",
+              "title": "Pedro Ruy-Blas Quartet",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "PEDRO RUY-BLAS QUARTET",
+          "subtitle2": "<b>SÁBADO 29 DE JULIO 22:30 HORAS</b>",
+          "caption2": "Pedro Ruy-Blas (v); Mariano Díaz (p); Victor Merlo (b); Daniel García Bruno (ds).",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -1083,10 +1108,26 @@
           "subtitle": "24 JULIO – 5 AGOSTO"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>"
+        },
+        {
           "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -1141,7 +1182,9 @@
           "_name": "buttons1",
           "_styles": {
             ".btn": {
-              "font-size": "25px"
+              "font-size": "25px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_anchor": "buttons1-44",
@@ -1150,7 +1193,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">IMAGENES FESTIVAL</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">IMAGENES FESTIVAL</a>  "
         },
         {
           "_inherit": "social-buttons1",
@@ -1321,7 +1364,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1331,14 +1375,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-family": "'Roboto Condensed', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1373,11 +1417,11 @@
           "_anchor": "menu-30",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "1.15",
+            "fontSize": "0.9",
             "fontName": {
-              "name": "Roboto Condensed",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "css": "'Roboto Condensed', sans-serif"
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1404,7 +1448,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERAJAZZFESTIVAL</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERAJAZZ FESTIVAL</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-26\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-3u\" aria-expanded=\"false\">CERTAMEN FOTOGRAFÍAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-2g\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">IMAGENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1833,8 +1877,8 @@
           "_name": "social-buttons3",
           "_anchor": "social-buttons3-3i",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
