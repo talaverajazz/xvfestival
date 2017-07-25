@@ -131,8 +131,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -175,9 +175,9 @@
             "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {
-              "name": "Raleway",
-              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "css": "'Raleway', sans-serif"
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1294,6 +1294,9 @@
           "_styles": {
             ".btn": {
               "font-size": "36px"
+            },
+            "H3": {
+              "font-size": "46px"
             }
           },
           "_anchor": "msg-box5-3r",
@@ -1314,9 +1317,9 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
             "inverse": true,
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -1340,8 +1343,8 @@
               "size": 0
             }
           },
-          "title": "IMAGENES",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "title": "IMAGENES FESTIVAL DE JAZZ 2017",
+          "text": "IMAGENES FESTIVAL DE JAZZ 2017",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html#gallery2-3o\" data-toolbar=\"-mbrBtnMove\">IMAGENES</a>"
         },
         {
@@ -1363,8 +1366,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -1407,9 +1410,9 @@
             "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {
-              "name": "Raleway",
-              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "css": "'Raleway', sans-serif"
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1857,6 +1860,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -1881,7 +1887,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "COMPARTE!"
+          "text": "COMPARTE"
         },
         {
           "_tags": [

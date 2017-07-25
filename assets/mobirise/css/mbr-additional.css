@@ -447,7 +447,7 @@ h6,
 #menu-1i .link,
 #menu-1i .dropdown-item {
   color: #ffffff;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-1i .link {
   font-size: 0.9rem;
@@ -663,6 +663,9 @@ h6,
 #msg-box5-3r .btn {
   font-size: 36px;
 }
+#msg-box5-3r H3 {
+  font-size: 46px;
+}
 #menu-30 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -681,7 +684,7 @@ h6,
 #menu-30 .link,
 #menu-30 .dropdown-item {
   color: #ffffff;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-30 .link {
   font-size: 0.9rem;
@@ -730,4 +733,7 @@ h6,
 #social-buttons3-3i .mbr-section-title,
 #social-buttons3-3i .btn-social {
   color: #fff;
+}
+#social-buttons3-3i .mbr-section-title {
+  font-size: 36px;
 }
