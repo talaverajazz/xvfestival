@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "name": "XVFESTIVAL",
     "theme": {
       "name": "mobirise3",
@@ -305,9 +305,9 @@
             "overlayColor": "#222",
             "columns": "2",
             "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
             "showButtons": false
           },
           "media1": {
@@ -338,9 +338,9 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "PUENTE DE CASTILLA LAMANCHA",
+          "title2": "PUENTE DE CASTILLA LA MANCHA<br>'PICNIC JAZZ'",
           "subtitle2": "22:00 HORAS",
-          "caption2": "<b>- CARAVANA JAM</b><br><b>- RED HOUSE</b>",
+          "caption2": "- CARAVANA JAM +&nbsp;&nbsp;RED HOUSE",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -461,6 +461,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px",
+              "color": "#8c8c8c"
+            }
+          },
           "_anchor": "msg-box5-46",
           "_params": {
             "imageSize": 50,
@@ -507,15 +515,7 @@
           },
           "title": "23 JULIO DOMINGO",
           "text": "<i>JAZZ EN LA CREMME 22:00 HORAS</i><br>Jorge Castañeda &amp; Sibyl González<i><br></i>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Jorge Castañeda &amp; Sibyl González</a>",
-          "_styles": {
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px",
-              "color": "#8c8c8c"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Jorge Castañeda &amp; Sibyl González</a>"
         },
         {
           "_styles": {
@@ -571,7 +571,7 @@
             "overlayColor": "#222",
             "columns": "2",
             "showImages": true,
-            "showTitles": false,
+            "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false
@@ -588,8 +588,8 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Nacho Fernández (g); Jorge Castañeda (p); Daniel Juárez (ts); Darío Guibert (ds).",
+          "title1": "THE MACHETAZO",
+          "subtitle1": "Nacho Fernández (g); Jorge Castañeda (p); Daniel Juárez (ts); Darío Guibert (ds).<br>LUNES 24 DE JULIO 22:30 HORAS",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -604,117 +604,8 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Responsive",
-          "subtitle2": "Victor Muñoz (as,cl,fl); L. Miguel Rodríguez (as); M. Ángel Pantoja, Javier Ochoa (ts); Ricardo Mateos (bs); Ängel M. Campos, Juan Moreno, Noelia Garcia, Vicente Riera (tp); Jorge Moreno, Fernando Jorge, Rebeca Muñoz, Santiago Rojo (tb); Emilio Orejuela (g); Raúl Santana (p); Fer Vilar (b); Adrián Alameda (ds); David Dominique (v); Juan Moreno (arr, dir).",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-1c",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": true,
-            "ShowTexts": false,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/26-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Javier Elorrieta Quintet",
-              "title": "Javier Elorrieta Quintet",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Javier Elorrieta (v); Domingo J. Sánchez (p); Juan Muro (sx); Richie Ferrer (b); Antonio Calero (ds).",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/27-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Kenny Garrett Quintet",
-              "title": "Kenny Garrett Quintet",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Responsive",
-          "subtitle2": "Keny Garrett (as, ss); Corcoran Holt (b); Marcus Baylor (ds); Vernell Brown (p); Rudy Bird (perc).",
+          "title2": "LEGANES BIG BAND con DAVID DOMIMIQUE",
+          "subtitle2": "Victor Muñoz (as,cl,fl); L. Miguel Rodríguez (as); M. Ángel Pantoja, Javier Ochoa (ts); Ricardo Mateos (bs); Ängel M. Campos, Juan Moreno, Noelia Garcia, Vicente Riera (tp); Jorge Moreno, Fernando Jorge, Rebeca Muñoz, Santiago Rojo (tb); Emilio Orejuela (g); Raúl Santana (p); Fer Vilar (b); Adrián Alameda (ds); David Dominique (v); Juan Moreno (arr, dir).<br>MARTES 25 DE JULIO 22:30 HORAS",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -766,13 +657,11 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_styles": {
-            "H5": {
-              "color": "#5b5b5b",
-              "text-align": "right"
+            "H4": {
+              "color": "#cccccc"
             },
-            "SPAN": {
-              "text-align": "center",
-              "color": "#5b5b5b"
+            "H5": {
+              "color": "#c1c1c1"
             }
           }
         },
@@ -781,7 +670,20 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-1e",
+          "_styles": {
+            "H5": {
+              "color": "#c1c1c1",
+              "text-align": "center"
+            },
+            "SPAN": {
+              "text-align": "center",
+              "color": "#5b5b5b"
+            },
+            "H4": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "features3-1c",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
@@ -799,41 +701,41 @@
             "overlayColor": "#222",
             "columns": "2",
             "showImages": true,
-            "showTitles": false,
+            "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/28-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/26-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Noa Lur Quintet",
-              "title": "Noa Lur Quintet",
+              "alt": "Javier Elorrieta Quintet",
+              "title": "Javier Elorrieta Quintet",
               "linkInNewWindow": false
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Noa Lur (v); Jorge Vera (key); Mario Carrillo (b); Álberto Brenes (ds); Rafel Águila (ts,fl).",
+          "title1": "JAVIER ELORRIETA QUINTET",
+          "subtitle1": "Javier Elorrieta (v); Domingo J. Sánchez (p); Juan Muro (sx); Richie Ferrer (b); Antonio Calero (ds).<br>MIÉRCOLES 26 DE JULIO 2230 HORAS<br><br>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/29-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/27-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Pedro Ruy-Blas Quartet",
-              "title": "Pedro Ruy-Blas Quartet",
+              "alt": "Kenny Garrett Quintet",
+              "title": "Kenny Garrett Quintet",
               "linkInNewWindow": false
             }
           },
-          "title2": "Responsive",
-          "subtitle2": "Pedro Ruy-Blas (v); Mariano Díaz (p); Victor Merlo (b); Daniel García Bruno (ds).<div><br></div>",
+          "title2": "KENNY GARRETT QUINTET",
+          "subtitle2": "Keny Garrett (as, ss); Corcoran Holt (b); Marcus Baylor (ds); Vernell Brown (p); Rudy Bird (perc).<br>JUEVES 27 DE JULIO 22.30 HORAS",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -884,6 +786,130 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1e",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/28-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Noa Lur Quintet",
+              "title": "Noa Lur Quintet",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "NOA LUR QUINTET",
+          "subtitle1": "Noa Lur (v); Jorge Vera (key); Mario Carrillo (b); Álberto Brenes (ds); Rafel Águila (ts,fl).<br>SÁBADO 29 DE JULIO 22:30 HORAS",
+          "caption1": "VIERNES 28 DE JULIO 22:30 HORAS",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/29-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Pedro Ruy-Blas Quartet",
+              "title": "Pedro Ruy-Blas Quartet",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "PEDRO RUY-BLAS QUARTET",
+          "subtitle2": "Pedro Ruy-Blas (v); Mariano Díaz (p); Victor Merlo (b); Daniel García Bruno (ds).<br><div>SÁBADO 29 DE JULIO 22:30 HORAS</div>",
+          "caption2": "SÁBADO 29 DE JULIO 22:30 HORAS",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H4": {
+              "color": "#cccccc"
+            },
+            "P": {
+              "color": "#cccccc"
+            },
+            "DIV": {
+              "color": "#c1c1c1"
+            },
+            "H5": {
+              "text-align": "center",
+              "color": "#c1c1c1"
+            }
+          }
         },
         {
           "_styles": {
@@ -950,19 +976,19 @@
             "Theme"
           ],
           "_name": "content6",
+          "_styles": {
+            "B": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content6-1q",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text1": "<p>21 DE JULIO VIERNES en LA CUBA: Música para escuchar \"Detroit la cuna del Soul\".</p><p><br></p><p>22 DE JULIO SABADO en FLY TO MANHATTAN: Música en vivo \"JamSession\".</p><p><br></p><p>24 DE JULIO LUNES en FLY TO MANHATTAN: Música para escuchar \"Recordando a Dizzy Gillespie\" y Noche de cine \"El cantor de Jazz\".</p><p><br></p><p>25 DE JULIO MARTES en TERRAZA 1990: Música en vivo <b>\"Dark Chocolat\"</b>.</p><p><br></p><p>26 DE JULIO MIERCOLES en FLY TO MANHATTAN: Música en vivo <b>\"Raúl Gama Trío\"</b>.</p>",
-          "text2": "<p>27 DE JULIO JUEVES en KOYOTE SALOON: Música en vivo <b>\"Electric Air Chords\"</b>.</p><p><br></p><p>28 DE JULIO VIERNES en DIVERXA 53: Música en vivo <b>\"MelJazz Quartet\"</b>.</p><p><br></p><p>29 DE JULIO SABADO en EL CASINO: Música en vivo \"Clausura del Festival y Jam Varios Artistas\".</p><p><br></p><p>11 DE AGOSTO VIERNES en LA CREMME: PREMIO FOTOGRAFÍA DEL FESTIVAL (100€).</p>",
-          "_styles": {
-            "B": {
-              "text-align": "center"
-            }
-          }
+          "text1": "<p><b>21 DE JULIO VIERNES</b> en <b>LA CUBA:</b> Música para escuchar \"Detroit la cuna del Soul\".</p><p><br></p><p><b>22 DE JULIO SABADO</b> en <b>FLY TO MANHATTAN:</b> Música en vivo \"JamSession\".</p><p><br></p><p><b>24 DE JULIO LUNES</b> en <b>FLY TO MANHATTAN:</b> Música para escuchar \"Recordando a Dizzy Gillespie\" y Noche de cine \"El cantor de Jazz\".</p><p><br></p><p><b>25 DE JULIO MARTES</b> en <b>TERRAZA 1990:</b> Música en vivo <b>\"Dark Chocolat\"</b>.</p><p><br></p><p><b>26 DE JULIO MIERCOLES</b> en <b>FLY TO MANHATTAN:</b> Música en vivo <b>\"Raúl Gama Trío\"</b>.</p><p><br></p>",
+          "text2": "<p><b>27 DE JULIO JUEVES</b> en <b>CASCO VIEJO:</b> Música en vivo <b>\"Electric Air Chords\"</b>.</p><p><br></p><p><b>28 DE JULIO VIERNES</b> en <b>DIVERXA 53:</b> Música en vivo <b>\"MelJazz Quartet\"</b>.</p><p><br></p><p><b>29 DE JULIO SABADO</b> en <b>EL CASINO:</b> Música en vivo \"Clausura del Festival y Jam Varios Artistas\".</p><p><br></p><p><b>11 DE AGOSTO VIERNES</b> en <b>LA CREMME:</b> <b>PREMIO FOTOGRAFÍA</b> DEL FESTIVAL (100€).</p>"
         },
         {
           "_styles": {
@@ -1006,9 +1032,17 @@
             "Theme"
           ],
           "_name": "testimonials2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".card-block P": {
+              "text-align": "left"
+            }
+          },
           "testimonial": [
             {
-              "text": "<p>CERTAMEN DE FOTOGRAFÍA DEL FESTIVAL INTERNACIONAL DE JAZZ \"CIUDAD DE TALAVERA\" 2017</p><p>Las normas son las mismas que todos los años, las recordamos....</p><p>1.- Pueden hacerse fotos con cualquier tipo de cámara o móvil.</p><p>2.- Las fotos tienen que ser realizadas durante las diversas actividades o conciertos del Festival del año 2017</p><p>3.- Tienen que ser subidas al EVENTO Concurso Foto JAZZ Talavera, del Festival Internacional de Jazz Ciudad de Talavera,&nbsp;<span style=\"font-size: 1.125rem; line-height: 2;\">antes del 5 de agosto.</span></p><p>4.- Las fotos permanecerán en su formato digital, no hay que mostrarlas en papel.</p><p>5.-Las fotos que concursen pasarán a formar parte del archivo histórico del Festival.</p><p>6.- La entrega del Premio se realizará el 11 de agosto en la Cafetería La Cremme por lo que las fotos que quieran participar tendrán que estar subidas al Evento de Facebook anteriormente señalado antes de las 13.00hrs del sábado 5 de agosto.</p><p>7.- El máximo de fotos por concursante es de 10, y deben ESTAR FIRMADAS por el autor.</p><p>8.- El premio para el ganador es de Diploma y 100 euros.</p><p>9.- El fallo del jurado es inapelable</p><p>10.- Ante cualquier duda o anomalía la organización será libre de modificar o cambiar cualquier eventualidad para el mejor desarrollo del certamen.-</p><p><br></p><p>GRACIAS A TODOS POR PARTICIPAR!!</p><p>A disfrutar fotografiando!!!”</p>",
+              "text": "<p><b>CERTAMEN DE FOTOGRAFÍA DEL FESTIVAL INTERNACIONAL DE JAZZ \"CIUDAD DE TALAVERA\" 2017</b></p><p>Las normas son las mismas que todos los años, las recordamos....</p><p>1.- Pueden hacerse fotos con cualquier tipo de cámara o móvil.</p><p>2.- Las fotos tienen que ser realizadas durante las diversas actividades o conciertos del Festival del año 2017</p><p>3.- Tienen que ser subidas al EVENTO Concurso Foto JAZZ Talavera, del Festival Internacional de Jazz Ciudad de Talavera,&nbsp;<span style=\"font-size: 1.125rem; line-height: 2;\">antes del 5 de agosto.</span></p><p>4.- Las fotos permanecerán en su formato digital, no hay que mostrarlas en papel.</p><p>5.-Las fotos que concursen pasarán a formar parte del archivo histórico del Festival.</p><p>6.- La entrega del Premio se realizará el 11 de agosto en la Cafetería La Cremme por lo que las fotos que quieran participar tendrán que estar subidas al Evento de Facebook anteriormente señalado antes de las 13.00hrs del sábado 5 de agosto.</p><p>7.- El máximo de fotos por concursante es de 10, y deben ESTAR FIRMADAS por el autor.</p><p>8.- El premio para el ganador es de Diploma y 100 euros.</p><p>9.- El fallo del jurado es inapelable</p><p>10.- Ante cualquier duda o anomalía la organización será libre de modificar o cambiar cualquier eventualidad para el mejor desarrollo del certamen.-</p><p><br></p><p>GRACIAS A TODOS POR PARTICIPAR!!</p><p>A disfrutar fotografiando!!!”</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/logo-1-160x160.jpg",
@@ -1031,6 +1065,9 @@
             "count": "1",
             "paddingTop": "2",
             "paddingBottom": "2",
+            "showImages": true,
+            "showName": false,
+            "showBio": false,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/21-8-2000x1500.jpg",
@@ -1040,21 +1077,10 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "showImages": true,
-            "showName": false,
-            "showBio": false
+            "showSubtitle": true
           },
           "title": "CERTAMEN FOTOGRAFÍAS",
-          "subtitle": "24 JULIO – 5 AGOSTO",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "36px"
-            },
-            ".card-block P": {
-              "text-align": "left"
-            }
-          }
+          "subtitle": "24 JULIO – 5 AGOSTO"
         },
         {
           "_inherit": "social-buttons2",
@@ -1069,8 +1095,8 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-2g",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
@@ -1113,18 +1139,18 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "25px"
+            }
+          },
           "_anchor": "buttons1-44",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">IMAGENES FESTIVAL</a> ",
-          "_styles": {
-            ".btn": {
-              "font-size": "25px"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">IMAGENES FESTIVAL</a> "
         },
         {
           "_inherit": "social-buttons1",
@@ -1689,7 +1715,97 @@
                 "thumb": "@PROJECT_PATH@/assets/images/23-5-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/23-5-2000x1500.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "24Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/24-2000x1500.jpg",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "24Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/24-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "24Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24-2-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/24-2-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "24Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24-3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/24-3-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "24Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24-4-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/24-4-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "24Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24-5-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/24-5-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "24Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24-6-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/24-6-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "24Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24-7-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/24-7-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "24Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24-8-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/24-8-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "1",

@@ -547,13 +547,35 @@ h6,
   font-size: 36px;
   text-align: center;
 }
+#features3-1d H4 {
+  color: #cccccc;
+}
+#features3-1d H5 {
+  color: #c1c1c1;
+}
 #features3-1c H5 {
-  color: #5b5b5b;
-  text-align: right;
+  color: #c1c1c1;
+  text-align: center;
 }
 #features3-1c SPAN {
   text-align: center;
   color: #5b5b5b;
+}
+#features3-1c H4 {
+  color: #cccccc;
+}
+#features3-1e H4 {
+  color: #cccccc;
+}
+#features3-1e P {
+  color: #cccccc;
+}
+#features3-1e DIV {
+  color: #c1c1c1;
+}
+#features3-1e H5 {
+  text-align: center;
+  color: #c1c1c1;
 }
 #header3-1t .mbr-section-title,
 #header3-1t .mbr-section-subtitle {
