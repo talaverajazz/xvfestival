@@ -399,7 +399,8 @@
           "_name": "msg-box5",
           "_styles": {
             "P": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "color": "#8c8c8c"
             },
             "I": {
               "font-family": "'Lora', serif",
@@ -1106,19 +1107,6 @@
           },
           "title": "CERTAMEN FOTOGRAFÍAS",
           "subtitle": "24 JULIO – 5 AGOSTO"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-4a",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>"
         },
         {
           "_inherit": "social-buttons2",
