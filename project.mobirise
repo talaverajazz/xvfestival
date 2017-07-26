@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 160,
+    "uniqCompNum": 174,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -269,7 +269,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#ffffff",
             "showMeta": true
           },
           "title": "21 DE JULIO VIERNES",
@@ -295,7 +295,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/21-2000x2798.jpg",
-            "bgColor": "#f2f2f2",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -488,7 +488,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#f2f2f2",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -954,7 +954,7 @@
           "_params": {
             "paddingTop": "4",
             "paddingBottom": 1,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "JAZZ EN LA MAÑANA",
@@ -991,7 +991,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": 1,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#ffffff",
             "showMeta": true
           },
           "title": "JAZZ DE MEDIANOCHE",
@@ -1011,7 +1011,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text1": "<p><b>21 DE JULIO VIERNES</b> en <b>LA CUBA:</b> Música para escuchar \"Detroit la cuna del Soul\".</p><p><br></p><p><b>22 DE JULIO SABADO</b> en <b>FLY TO MANHATTAN:</b> Música en vivo \"JamSession\".</p><p><br></p><p><b>24 DE JULIO LUNES</b> en <b>FLY TO MANHATTAN:</b> Música para escuchar \"Recordando a Dizzy Gillespie\" y Noche de cine \"El cantor de Jazz\".</p><p><br></p><p><b>25 DE JULIO MARTES</b> en <b>TERRAZA 1990:</b> Música en vivo <b>\"Dark Chocolat\"</b>.</p><p><br></p><p><b>26 DE JULIO MIERCOLES</b> en <b>FLY TO MANHATTAN:</b> Música en vivo <b>\"Raúl Gama Trío\"</b>.</p><p><br></p>",
           "text2": "<p><b>27 DE JULIO JUEVES</b> en <b>CASCO VIEJO:</b> Música en vivo <b>\"Electric Air Chords\"</b>.</p><p><br></p><p><b>28 DE JULIO VIERNES</b> en <b>DIVERXA 53:</b> Música en vivo <b>\"MelJazz Quartet\"</b>.</p><p><br></p><p><b>29 DE JULIO SABADO</b> en <b>EL CASINO:</b> Música en vivo \"Clausura del Festival y Jam Varios Artistas\".</p><p><br></p><p><b>11 DE AGOSTO VIERNES</b> en <b>LA CREMME:</b> <b>PREMIO FOTOGRAFÍA</b> DEL FESTIVAL (100€).</p>"
@@ -1033,7 +1033,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": 1,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "JAZZ EN LAS ONDAS",
@@ -1109,10 +1109,9 @@
           "subtitle": "24 JULIO – 5 AGOSTO"
         },
         {
-          "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
-              "color": "#fff"
+              "color": "#232323"
             },
             ".mbr-section-title": {
               "font-size": "36px"
@@ -1121,15 +1120,15 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-2g",
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-4r",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-2000x731.jpg",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -1155,7 +1154,7 @@
             "postToLoad": 3,
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "bgImageRadio": false,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.6,
@@ -1171,51 +1170,172 @@
           "_styles": {
             ".btn": {
               "font-size": "25px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           },
           "_anchor": "buttons1-44",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
           },
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">IMAGENES FESTIVAL</a>  "
         },
         {
-          "_inherit": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-2j",
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-4t",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "facebook": true,
             "twitter": true,
-            "google": false,
+            "google": true,
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "COMPARTE"
+          "text": "COMPARTE",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-4p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logoalways302-600x298.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logoayuntacion-600x298.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logooaltalavera-600x346.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logodipu302-600x298.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logoalways302-600x298.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/blanco-1-600x298.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -1229,7 +1349,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1760,7 +1880,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/24-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/24-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "24Julio",
@@ -1841,12 +1961,62 @@
                 "image": "@PROJECT_PATH@/assets/images/24-8-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "25Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/25-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/25-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "25Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/25-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/25-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "25Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/25-2-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/25-2-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "25Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/25-3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/25-3-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "25Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/25-4-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/25-4-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "1",
             "showText": false,
             "filter": true,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#ffffff",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": false
@@ -1856,38 +2026,159 @@
           "allItem": "Todas"
         },
         {
-          "_inherit": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-3i",
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-4n",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "facebook": true,
             "twitter": true,
-            "google": false,
+            "google": true,
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "COMPARTE"
+          "text": "COMPARTE",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-4g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logoalways302-600x298.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logoayuntacion-600x298.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logooaltalavera260-600x346.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logodipu302-600x298.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logoalways302-600x298.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/blanco-600x298.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -1901,7 +2192,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,

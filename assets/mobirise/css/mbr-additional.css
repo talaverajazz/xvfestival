@@ -634,22 +634,18 @@ h6,
 #testimonials2-3u .card-block P {
   text-align: left;
 }
-#social-buttons4-2g .mbr-section-title,
-#social-buttons4-2g .btn-social {
-  color: #fff;
+#social-buttons2-4r .mbr-section-title,
+#social-buttons2-4r .btn-social {
+  color: #232323;
 }
-#social-buttons4-2g .mbr-section-title {
+#social-buttons2-4r .mbr-section-title {
   font-size: 36px;
 }
 #buttons1-44 .btn {
   font-size: 25px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
-#social-buttons3-2j .mbr-section-title,
-#social-buttons3-2j .btn-social {
-  color: #fff;
-}
-#social-buttons3-2j .mbr-section-title {
+#social-buttons1-4t .mbr-section-title {
   font-size: 36px;
 }
 
@@ -730,10 +726,6 @@ h6,
 #menu-30 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#social-buttons3-3i .mbr-section-title,
-#social-buttons3-3i .btn-social {
-  color: #fff;
-}
-#social-buttons3-3i .mbr-section-title {
+#social-buttons1-4n .mbr-section-title {
   font-size: 36px;
 }
