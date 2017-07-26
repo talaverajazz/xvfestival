@@ -416,7 +416,7 @@
           "_anchor": "msg-box5-26",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
@@ -483,7 +483,7 @@
           "_anchor": "msg-box5-46",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "2",
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
