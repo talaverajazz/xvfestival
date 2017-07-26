@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 174,
+    "uniqCompNum": 177,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -205,7 +205,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERAJAZZ FESTIVAL</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-26\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-3u\" aria-expanded=\"false\">CERTAMEN FOTOGRAFÍAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-2g\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"imagenes.html\" aria-expanded=\"false\">IMAGENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-26\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-3u\" aria-expanded=\"false\">CERTAMEN FOTOGRAFÍAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-4r\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"imagenes.html\" aria-expanded=\"false\">IMAGENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box8",
@@ -1146,7 +1146,7 @@
           "_anchor": "feed-2d",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "youtube": "",
             "facebook": "TalaveraJazzFestival",
             "twitter": "",
@@ -1172,15 +1172,18 @@
               "font-size": "25px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            "SPAN": {
+              "font-size": "30px"
             }
           },
           "_anchor": "buttons1-44",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"imagenes.html\" data-toolbar=\"-mbrBtnMove\">IMAGENES FESTIVAL</a>  "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"imagenes.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-photo mbr-iconfont mbr-iconfont-btn\"></span>IMAGENES FESTIVAL</a>  "
         },
         {
           "_tags": [
@@ -1560,7 +1563,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERAJAZZ FESTIVAL</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-26\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-3u\" aria-expanded=\"false\">CERTAMEN FOTOGRAFÍAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-2g\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"imagenes.html\" aria-expanded=\"false\">IMAGENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-26\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-3u\" aria-expanded=\"false\">CERTAMEN FOTOGRAFÍAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-4r\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"imagenes.html\" aria-expanded=\"false\">IMAGENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",
