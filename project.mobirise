@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 184,
+    "uniqCompNum": 206,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -748,13 +748,13 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "kennygarrett.html",
               "alt": "Kenny Garrett Quintet",
               "title": "Kenny Garrett Quintet",
               "linkInNewWindow": false
             }
           },
-          "title2": "KENNY GARRETT QUINTET",
+          "title2": "<a href=\"kennygarrett.html\" class=\"text-white\">KENNY GARRETT QUINTET</a>",
           "subtitle2": "<b>JUEVES 27 DE JULIO 22.30 HORAS</b>",
           "caption2": "Kenny Garrett (as, ss); Corcoran Holt (b); Marcus Baylor (ds); Vernell Brown (p); Rudy Bird (perc).<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2064,30 +2064,24 @@
           "allItem": "Todas"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "color": "#8c8c8c"
-            },
-            "P": {
-              "font-size": "19px"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-52",
+          "_name": "buttons1",
+          "_anchor": "buttons1-5o",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff",
-            "showMeta": true
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "title": "",
-          "meta": "<p>Más imagénes en ...... <a href=\"https://www.facebook.com/pg/TalaveraJazzFestival/photos/?ref=page_internal\" target=\"_blank\" class=\"text-black\">facebook.com/pg/TalaveraJazzFestival/photos</a><a href=\"https://www.facebook.com/pg/TalaveraJazzFestival/photos/?ref=page_internal\" target=\"_blank\" class=\"text-black\"></a>&nbsp;</p><p>y videos en .....&nbsp;<a href=\"https://www.facebook.com/pg/TalaveraJazzFestival/videos/?ref=page_internal\" class=\"text-black\" style=\"background-color: rgb(255, 255, 255);\" target=\"_blank\">facebook.com/pg/TalaveraJazzFestival/videos</a></p><p><a href=\"https://www.facebook.com/pg/TalaveraJazzFestival/photos/?ref=page_internal\" class=\"text-black\"></a></p>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/pg/TalaveraJazzFestival/photos/?ref=page_internal\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>MÁS IMAGENES</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://www.facebook.com/pg/TalaveraJazzFestival/videos/?ref=page_internal\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>VIDEOS</a>",
+          "_styles": {
+            ".btn": {
+              "font-size": "19px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -2261,6 +2255,243 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Talavera Jazz."
+        }
+      ]
+    },
+    "kennygarrett.html": {
+      "settings": {
+        "title": "Kenny Garrett",
+        "meta_descr": "Kenny Garrett bio"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5f",
+          "_params": {
+            "bgColor": "#2e2e2e",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://talaverajazz.github.io/xvfestival/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERAJAZZ FESTIVAL</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-26\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-3u\" aria-expanded=\"false\">CERTAMEN FOTOGRAFÍAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-4r\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"imagenes.html\" aria-expanded=\"false\">IMAGENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-5g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Talavera Jazz."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-5i",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/kennygarrett2-2000x1024.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Kenny Garrett",
+          "meta": "fuente: wikipedia"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Kenny Garrett </b>(9 de octubre de 1960) es un saxofonista de jazz y flautista que obtuvo fama en su juventud como miembro de la Orquesta de Duke Ellington y de la banda de Miles Davis​ Desde entonces ha seguido una carrera de éxito y ha sido descrito como \"El más importante saxo alto de su generación\" por el Washington City Paper y \"Uno de los más admirados saxos altos de jazz después de Charlie Parker\" por The New York Times.</span><br></p><p><br></p><p><b>Biografía</b></p><p><br></p><p>Kenny Garrett nació en Detroit, Míchigan y en 1978 se licencia en la Mackenzie High School. Su padre era carpintero y tocaba en saxo tenor como hobby. La carrera de Garrett como saxofonista despunta cuando se une a la Orquesta de Duke Ellington en 1978, entonces dirigida por el hijo del Duke, Mercer Ellington Tres años más tarde toca en la Orquesta de Mel Lewis, tocando la música de Thad Jones y también en el Cuarteto de Dannie Richmond, centrando en la música de Charles Mingus.</p><p><br></p><p>En 1984, graba su primer álbum como líder, Introducing Kenny Garrett, en el sello CrissCross. Después graba dos álbumes con Atlantic: Prisoner of Love y African Exchange Student. A continuación Garrett firmó con Warner Bros. empezando con el álbum Black Hope, en 1992 Entre sus registros en Warner Bros. están Pursuance: La Música de John Coltrane, grabado en 1996 y Songbook, su primer álbum enteramente de composiciones propias, grabado en 1997 y nominado para un Grammy.</p><p><br></p><p>Durante su carrera, Garrett ha actuado y grabado con muchos grandes del jazz como Miles Davis, Art Blakey, Joe Henderson, Brad Mehldau, Freddie Hubbard, Woody Shaw, McCoy Tyner, Pharoah Sanders, Brian Blade, Marcus Miller, Chick Corea, John McLaughlin, Herbie Hancock, Bobby Hutcherson, Ron Carter, Elvin Jones, y Mulgrew Miller. La música de Garrett a veces exhibe influencias asiáticas, un aspecto qué es especialmente relevante en su álbum de 2006 Beyond the Wall nominado al Grammy.</p><p><br></p><p>Garrett es más conocido en muchos círculos por los cinco años con Miles Davis, durante el periodo eléctrico de Davis y declara que se ha acostumbrado a la asociación:</p><p><br></p><p>&nbsp; &nbsp; \"Estuve en la banda de Miles aproximadamente cinco años. Creo que la etiqueta siempre permanecerá. Fueron cinco años de mi vida. Aquello era una situación musical única ya que duró mucho más del año habitual. Para mi fueron cinco años muy buenos y he podido utilizar esa experiencia. Algunas personas se fijaron en mí a través de Miles y después vendrían a mis conciertos. Creo que es parte de mi historia y estoy orgulloso de ello. Todavía estoy probando a forjarme un nombre propio y mi propia música. Cada vez que mencionan a Kenny Garrett, probablemente habrá alguna asociación con Miles Davis, igual que cuándo mencionan a Herbie Hancock, siempre mencionan a Miles Davis o a Wayne Shorter.\" (allaboutjazz.com)</p><p><br></p><p>Su álbum en vivo Sketches of MD: Live at the Iridium, con Pharoah Sanders, fue publicado el 23 de septiembre de 2008.</p><p><br></p><p>Garrett actuó en una gira mundial en 2008–2009 con Corea, McLaughlin, Christian McBride y Vinnie Colaiuta en un conjunto llamado la \"Five Peace Band\". El CD que grabaron en vivo ganó un Grammy el 31 de enero de 2010.</p><p><br></p><p>El 7 de mayo de 2011, Garrett fue distinguido como Doctor Honoris Causa en Música por el Berklee College of Music de Boston, Massachusetts, en una ceremonia a la que asistieron 908 licenciados, la mayor promoción en la historia de Berklee. La ceremonia tuvo lugar en el Agganis Arena (Universidad de Boston) y asistieron un total de cuatro mil personas.</p><p><br></p><p>En septiembre de 2013, Garrett publicó su segundo álbum de estudio para Mack Avenue Records, Pushing the World Away. El álbum recibió una nominación al Grammy para la categoría de Mejor Álbum de Jazz Instrumental en diciembre del mismo año.7​ Garrett también ganó en 2013, en la revista DownBeat, la Encuesta de Lectores por segundo año consecutivo, lo cual eleva a 8 su número total de veces que ha ganado en la categoría de Saxo Alto.</p><p><br></p><p><b>Discografía.</b></p><p><br></p><p><b>Como líder:</b></p><p><br></p><p>&nbsp; &nbsp; Introducing Kenny Garrett, 1984 (Criss Cross)</p><p>&nbsp; &nbsp; 5 Paddle Wheel, 1988</p><p>&nbsp; &nbsp; Prisoner of Love, 1989 (Atlantic)</p><p>&nbsp; &nbsp; African Exchange Student, 1990 (Atlantic)</p><p>&nbsp; &nbsp; Black Hope, 1992 (Warner Bros.)</p><p>&nbsp; &nbsp; Triology, 1995 (Warner Bros.)</p><p>&nbsp; &nbsp; Stars &amp; Stripes Live, 1995</p><p>&nbsp; &nbsp; Pursuance: The Music of John Coltrane, 1996 (Warner Bros.)</p><p>&nbsp; &nbsp; Songbook, 1997 (Warner Bros.) — GRAMMY Nomination</p><p>&nbsp; &nbsp; Simply Said, 1999 (Warner Bros.)</p><p>&nbsp; &nbsp; Old Folks, 2001</p><p>&nbsp; &nbsp; Birds of a Feather: A Tribute to Charlie Parker, 2001</p><p>&nbsp; &nbsp; Happy People, 2002 (Warner Bros.)</p><p>&nbsp; &nbsp; Standard of Language, 2003 (Warner Bros.)</p><p>&nbsp; &nbsp; Beyond the Wall, 2006 (Nonesuch) — GRAMMY Nomination</p><p>&nbsp; &nbsp; Sketches of MD – Live at the Iridium, 2008 (Mack Avenue)</p><p>&nbsp; &nbsp; Seeds from the Underground, 2012 (Mack Avenue) — 2 GRAMMY Nominations</p><p>&nbsp; &nbsp; Pushing the World Away, 2013 (Mack Avenue) - 1 GRAMMY Nomination</p><p><br></p><p><b>Como sideman:</b></p><p><br></p><p>Con Geri Allen.</p><p><br></p><p>&nbsp; &nbsp; The Nurturer (Blue Note, 1991)</p><p><br></p><p>Con Art Blakey.</p><p><br></p><p>&nbsp; &nbsp; Feeling Good (Delos, 1986)</p><p><br></p><p>Con Miles Davis.</p><p><br></p><p>&nbsp; &nbsp; Amandla (1989)</p><p>&nbsp; &nbsp; Miles &amp; Quincy Live at Montreux (1991)</p><p>&nbsp; &nbsp; Live Around the World (1996)</p><p><br></p><p>Con Marcus Miller.</p><p><br></p><p>&nbsp; &nbsp; The Sun Don't Lie (1993)</p><p>&nbsp; &nbsp; Tales (1995)</p><p>&nbsp; &nbsp; Live &amp; More (1998)</p><p>&nbsp; &nbsp; M² (2001)</p><p>&nbsp; &nbsp; Panther/Live (2004)</p><p><br></p><p>Con Woody Shaw.</p><p><br></p><p>&nbsp; &nbsp; Solid (Muse, 1986)</p><p><br></p><p>Con Mulgrew Miller.</p><p><br></p><p>&nbsp; &nbsp; Hand in Hand (1993).</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Con otros:</span><br></p><p><br></p><p>&nbsp; &nbsp; Geri Allen</p><p>&nbsp; &nbsp; Clifton Anderson</p><p>&nbsp; &nbsp; Terence Blanchard</p><p>&nbsp; &nbsp; Donald Byrd</p><p>&nbsp; &nbsp; Dennis Chambers</p><p>&nbsp; &nbsp; Vinnie Colaiuta</p><p>&nbsp; &nbsp; Chick Corea</p><p>&nbsp; &nbsp; Duke Ellington</p><p>&nbsp; &nbsp; Roy Haynes</p><p>&nbsp; &nbsp; Javon Jackson</p><p>&nbsp; &nbsp; Guru's Jazzmatazz</p><p>&nbsp; &nbsp; Rodney Kendrick</p><p>&nbsp; &nbsp; Christian McBride</p><p>&nbsp; &nbsp; John McLaughlin</p><p>&nbsp; &nbsp; Charnett Moffett</p><p>&nbsp; &nbsp; Q-Tip</p><p>&nbsp; &nbsp; Philippe Saisse</p><p>&nbsp; &nbsp; John Scofield</p><p>&nbsp; &nbsp; Mike Stern</p><p>&nbsp; &nbsp; Wayman Tisdale</p><p>&nbsp; &nbsp; Steve Turre</p><p>&nbsp; &nbsp; Cedar Walton</p><p>&nbsp; &nbsp; Jeff \"Tain\" Watts</p><p>&nbsp; &nbsp; Lenny White</p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5m",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Kenny Garrett Quintet",
+          "meta": "Jazzwoche Burghausen 2015<br>Live at 46. Internationale Jazzwoche Burghausen, Wackerhalle, Germany, March 19, 2015<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5l",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/ciM2wzDg5cs",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         }
       ]
     }

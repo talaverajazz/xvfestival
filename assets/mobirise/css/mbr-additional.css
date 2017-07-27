@@ -651,6 +651,7 @@ h6,
 }
 
 
+
 #msg-box2-3s .mbr-section-title {
   color: #fff;
 }
@@ -727,19 +728,93 @@ h6,
 #menu-30 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header3-52 .mbr-section-title,
-#header3-52 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-52 SMALL {
-  color: #8c8c8c;
-}
-#header3-52 P {
+#buttons1-5o .btn {
   font-size: 19px;
+  font-family: 'Lora', serif;
 }
 #social-buttons1-4n .mbr-section-title {
   font-size: 36px;
 }
 #features1-50 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
+}
+
+
+#menu-5f .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-5f .navbar-caption {
+  color: #ffffff;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+}
+#menu-5f .navbar-toggler {
+  color: #ffffff;
+}
+#menu-5f .close-icon::before,
+#menu-5f .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-5f .link,
+#menu-5f .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#menu-5f .link {
+  font-size: 0.9rem;
+}
+#menu-5f .dropdown-item,
+#menu-5f .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#menu-5f .link:hover,
+#menu-5f .dropdown-item:hover,
+#menu-5f .link:focus,
+#menu-5f .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-5f .link[aria-expanded="true"],
+#menu-5f .dropdown-menu {
+  background: #141414;
+}
+#menu-5f .nav-dropdown-sm .link:focus,
+#menu-5f .nav-dropdown-sm .link:hover,
+#menu-5f .nav-dropdown-sm .dropdown-item:focus,
+#menu-5f .nav-dropdown-sm .dropdown-item:hover {
+  background: #262626!important;
+}
+#menu-5f .navbar,
+#menu-5f .nav-dropdown-sm,
+#menu-5f .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-5f .nav-dropdown-sm .dropdown-menu {
+  background: #2e2e2e;
+}
+#menu-5f .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-5f .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-5f .bg-color.transparent.opened .link:hover,
+#menu-5f .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-5f .link[aria-expanded="true"],
+#menu-5f .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#header3-5k .mbr-section-title,
+#header3-5k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5k H3 {
+  font-size: 36px;
+}
+#header3-5m .mbr-section-title,
+#header3-5m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5m H3 {
+  font-size: 30px;
 }
