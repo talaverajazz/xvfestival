@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 206,
+    "uniqCompNum": 217,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -875,13 +875,13 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "pedroruy-blas.html",
               "alt": "Pedro Ruy-Blas Quartet",
               "title": "Pedro Ruy-Blas Quartet",
               "linkInNewWindow": false
             }
           },
-          "title2": "PEDRO RUY-BLAS QUARTET",
+          "title2": "<a href=\"pedroruy-blas.html\" class=\"text-white\">PEDRO RUY-BLAS QUARTET</a>",
           "subtitle2": "<b>SÁBADO 29 DE JULIO 22:30 HORAS</b>",
           "caption2": "Pedro Ruy-Blas (v); Mariano Díaz (p); Victor Merlo (b); Daniel García Bruno (ds).",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2489,6 +2489,244 @@
               "autoplay": false,
               "loop": false,
               "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        }
+      ]
+    },
+    "pedroruy-blas.html": {
+      "settings": {
+        "title": "Pedro Ruy-Blas",
+        "meta_descr": "Pedro Ruy-Blas bio"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5q",
+          "_params": {
+            "bgColor": "#2e2e2e",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://talaverajazz.github.io/xvfestival/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERAJAZZ FESTIVAL</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-53\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-3u\" aria-expanded=\"false\">CERTAMEN FOTOGRAFÍAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-4r\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"imagenes.html\" aria-expanded=\"false\">IMAGENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-5r",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Talavera Jazz."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-5w",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pedro-ruy-blas-quartet-2000x1336.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Pedro Ruy-Blas",
+          "meta": "fuente: wikipedia"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Pedro Ample Candel</b>, que utiliza el seudónimo de <b>Pedro Ruy-Blas</b> (Madrid, 1949), es un cantante, baterista, compositor y actor español.</p><p><br></p><p><b>Biografía</b></p><p><br></p><p>Nacido como Pedro Ample Candel, eligió el sobrenombre de Ruy-Blas dada su admiración desde niño por Victor Hugo al grabar en 1970 su primer disco como cantante solista, con el que consiguió un importante éxito en España con la canción titulada A los que hirió el amor, la que con el paso de los años ha ido convirtiéndose en todo un clásico de la música popular española.</p><p><br></p><p>Comenzó su prolífica carrera musical siendo apenas un adolescente. Primero formó parte de grupos como Los Príncipes y Los Grimm con quiénes grabó sus primeros discos para la compañía Philips. Poco después formó parte del legendario grupo Los Canarios (1968) durante el tiempo en que su director, Teddy Bautista, cumplía el servicio militar. Fue al término de su trabajo con este grupo cuando grabó A los que hirió el amor, producido por Alain Milhaud. El segundo disco sencillo del ya entonces conocido como Pedro Ruy-Blas, titulado Mi voz es amor, fue prohibido por la censura del antiguo régimen al considerar dicho tema subversivo.</p><p><br></p><p>Fue a partir de ese momento cuando Pedro orientó su carrera hacia el jazz. Fundó el grupo de fusión y jazz-rock Dolores junto a jóvenes músicos como Jorge Pardo, el baterista José Antonio Galicia, Rubem Dantas y el pianista Tomás San Miguel, entre otros. En esta formación, descubrimos a Pedro como un excelente baterista y percusionista. Graban varios discos para Polydor, como Luna llena, Dolores, La Puerta Abierta, y Asa-Nisi-Masa. Al poco tiempo, Dolores se convirtió en uno de los más importantes grupos de la historia de la música progresiva en España, y así surgió la colaboración con el maestro Paco de Lucía, impulsando de este modo una nueva época en el flamenco.</p><p><br></p><p>Desde 1980, Pedro Ruy-Blas reemprende su carrera como cantante solista, y graba para el sello Nuevos Medios el álbum titulado Madre Ciudad.</p><p><br></p><p><b>El Musical</b></p><p><br></p><p>En 1984 inicia su carrera como actor en el teatro musical interpretando a Judas Iscariote en el musical de Lloyd Webber Jesucristo Superstar.</p><p><br></p><p>En 1991 es elegido para interpretar el papel de Jean Valjean en Los Miserables en 546 representaciones, y obtiene uno de los mayores éxitos de la historia del teatro musical en España.</p><p><br></p><p>En 1994 interviene junto a Ana Belén en el musical La bella Helena, basado en la ópera homónima de Offenbach.</p><p><br></p><p>Poco después interviene en el teatro Nuevo Apolo de Madrid en La Maja de Goya de Fernando Arbex y Vicente Escrivá, interpretando el papel del genio aragonés Francisco de Goya; la grabación se llevó a cabo con la Orquesta Filarmónica de Londres.</p><p><br></p><p>Su último trabajo hasta el momento en el campo del musical ha sido dar vida a Old Deuteronomy en la versión española de Cats en el Teatro Coliseum de la Gran Vía de Madrid.</p><p><br></p><p><b>Vuelta a la canción</b></p><p><br></p><p>Ha sido la voz en castellano en algunas de las canciones de películas de animación como El Príncipe de Egipto, de DreamWorks, y El Emperador y sus Locuras, de Disney.</p><p><br></p><p>En 1999 graba otro disco para Nuevos Medios, titulado Teatro, circo y variedades.</p><p><br></p><p>En el 2003, pública un nuevo disco, titulado De todo corazón, en el que recrea diferentes temas de la memoria colectiva en estilo de jazz junto al pianista argentino afincado en España Horacio Icasto. Con ese trabajo, obtiene una candidatura al mejor disco de jazz en los Premios de la Academia de la Música.</p><p><br></p><p>En el 2005 se le otorga el Premio de Honor del Festival Internacional Viajazz por toda su carrera. Lo recoge de manos de la cantante estadounidense Dianne Reeves. Ese mismo año, Pedro Ruy-Blas interviene junto a Horacio Icasto en el Festival de Jazz de Madrid.</p><p><br></p><p>Comienza a emitirse en numerosas emisoras de radio el programa semanal Corriente ecléctica, creado, dirigido y presentado por Pedro Ruy-Blas.(www.ondatoledo.org)</p><p><br></p><p>Entra a formar parte del consejo de dirección de la Asociación de Intérpretes y Ejecutantes (AIE).</p><p><br></p><p>A finales del 2005, interpreta su primer papel cinematográfico en Cándida, ópera prima de Guillermo Fesser (dúo Gomaespuma) que se estrena en otoño del 2006.</p><p><br></p><p>Prepara su nuevo trabajo discográfico titulado Ample en abril de 2008.</p><p><br></p><p>Comienzan los conciertos en diversas ciudades españolas de A su manera-Celebrando la música de Frank Sinatra, en los que Pedro une su voz a la big band del saxofonista neoyorquino Bob Sands, formada por 18 músicos.</p><p><br></p><p>En el 2009, Laura Simó y Pedro Ruy-Blas, dos de las voces más destacadas del jazz en español, se unen para el espectáculo Sueño inmaterial, en el que repasan sus respectivos repertorios, con Carme Canela como invitada especial y acompañados por 33 músicos dirigidos por Joan Albert Amargós. Recorrerán escenarios de Madrid, Barcelona y Nueva York. El 20 de mayo cantan en el Teatro Español de Madrid en el concierto del 15 de junio de 2009 en el Palacio de la Música Catalana de Barcelona. Graban un CD y DVD en directo, y el 28 de junio cantan en el Zankel Hall del Carnegie Hall de Nueva York. En 2014 saca un nuevo disco El americano, con el que celebra sus primeros 50 años en la Música.</p><p><br></p><p><b>Filmografía</b></p><p><br></p><p>&nbsp; &nbsp; 1998 - El príncipe de Egipto (voz)</p><p>&nbsp; &nbsp; 2000 - El emperador y sus locuras (voz)</p><p>&nbsp; &nbsp; 2006 - \"Cándida\" (actor)</p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Pedro Ruy Blas Quartet",
+          "meta": "A Whiter Shade Of Pale en Clazzjazz 2014 "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5s",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=e6gt1ZZs08o",
+              "autoplay": false,
+              "loop": false,
+              "active": true,
+              "aspectratio": "16:9"
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
