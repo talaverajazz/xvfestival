@@ -520,36 +520,31 @@ h6,
 #features3-3 P {
   text-align: left;
 }
-#msg-box5-26 P {
-  font-size: 36px;
+#msg-box5-53 P {
   color: #8c8c8c;
+  font-size: 25px;
 }
-#msg-box5-26 I {
-  font-family: 'Lora', serif;
-  text-align: right;
-  color: #8c8c8c;
-  font-size: 30px;
-}
-#msg-box5-26 H3 {
+#msg-box5-53 H3 {
   font-size: 36px;
 }
 #msg-box5-46 P {
-  font-family: 'Lora', serif;
-  font-size: 32px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
   color: #8c8c8c;
 }
 #msg-box5-46 H3 {
   font-size: 36px;
 }
 #msg-box5-46 I {
-  font-size: 30px;
+  font-size: 25px;
+  font-family: 'Raleway', sans-serif;
 }
 #header3-1f .mbr-section-title,
 #header3-1f .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1f SMALL {
-  font-size: 32px;
+  font-size: 30px;
 }
 #header3-1f H3 {
   font-size: 46px;
@@ -561,7 +556,7 @@ h6,
 }
 #features3-1d H4 {
   color: #cccccc;
-  font-size: 30px;
+  font-size: 32px;
 }
 #features3-1d H5 {
   color: #c1c1c1;
@@ -582,7 +577,7 @@ h6,
 }
 #features3-1c H4 {
   color: #cccccc;
-  font-size: 30px;
+  font-size: 32px;
 }
 #features3-1c P {
   color: #c1c1c1;
@@ -590,7 +585,7 @@ h6,
 }
 #features3-1e H4 {
   color: #cccccc;
-  font-size: 30px;
+  font-size: 32px;
 }
 #features3-1e P {
   color: #cccccc;
@@ -650,6 +645,9 @@ h6,
 }
 #social-buttons1-4t .mbr-section-title {
   font-size: 36px;
+}
+#features1-4z .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
 }
 
 
@@ -729,6 +727,19 @@ h6,
 #menu-30 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-52 .mbr-section-title,
+#header3-52 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-52 SMALL {
+  color: #8c8c8c;
+}
+#header3-52 P {
+  font-size: 19px;
+}
 #social-buttons1-4n .mbr-section-title {
   font-size: 36px;
+}
+#features1-50 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
 }

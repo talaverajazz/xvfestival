@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "imagenes.html",
+    "currentPage": "index.html",
     "name": "XVFESTIVAL",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 177,
+    "uniqCompNum": 184,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -232,7 +232,9 @@
             "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/aD03FsV0M5I?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": false,
             "overlay": false,
@@ -397,27 +399,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "font-size": "36px",
-              "color": "#8c8c8c"
-            },
-            "I": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "right",
-              "color": "#8c8c8c",
-              "font-size": "30px"
-            },
-            "H3": {
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "msg-box5-26",
+          "_anchor": "msg-box5-53",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "imageSize": "45",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -441,8 +427,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/22-1400x1400.jpg",
               "link": "",
-              "alt": "V Certamen Jóvenes Músicos Jazz",
-              "title": "V Certamen Jóvenes Músicos Jazz",
+              "alt": "",
+              "title": "",
               "linkInNewWindow": false
             },
             "video": {
@@ -457,9 +443,18 @@
               "size": 0
             }
           },
-          "title": "22 DE JULIO SÁBADO",
-          "text": "<i>V CERTAMEN JÓVENES MÚSICOS DE JAZZ &nbsp;en Puerta de Sevilla (c/ Carnicerías) 22:00 HORAS</i>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "22 &nbsp;JULIO SÁBADO",
+          "text": "V CERTAMEN JÓVENES MÚSICOS DE JAZZ  en Puerta de Sevilla (c/ Carnicerías) 22:00 HORAS",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#8c8c8c",
+              "font-size": "25px"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_tags": [
@@ -468,23 +463,25 @@
           "_name": "msg-box5",
           "_styles": {
             "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "25px",
               "color": "#8c8c8c"
             },
             "H3": {
               "font-size": "36px"
             },
             "I": {
-              "font-size": "30px"
+              "font-size": "25px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_anchor": "msg-box5-46",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "imageSize": "45",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -525,7 +522,7 @@
             }
           },
           "title": "23 JULIO DOMINGO",
-          "text": "<i>JAZZ EN LA CREMME 22:00 HORAS</i><br><i>Jorge Castañeda &amp; Sibyl González<br></i>",
+          "text": "JAZZ EN LA CREMME 22:00 HORAS con Jorge<i> </i>Castañeda &amp; Sibyl González<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Jorge Castañeda &amp; Sibyl González</a>"
         },
         {
@@ -534,7 +531,7 @@
               "text-align": "center"
             },
             "SMALL": {
-              "font-size": "32px"
+              "font-size": "30px"
             },
             "H3": {
               "font-size": "46px",
@@ -567,7 +564,7 @@
           "_styles": {
             "H4": {
               "color": "#cccccc",
-              "font-size": "30px"
+              "font-size": "32px"
             },
             "H5": {
               "color": "#c1c1c1",
@@ -699,7 +696,7 @@
             },
             "H4": {
               "color": "#cccccc",
-              "font-size": "30px"
+              "font-size": "32px"
             },
             "P": {
               "color": "#c1c1c1",
@@ -818,7 +815,7 @@
           "_styles": {
             "H4": {
               "color": "#cccccc",
-              "font-size": "30px"
+              "font-size": "32px"
             },
             "P": {
               "color": "#cccccc",
@@ -1134,7 +1131,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "SIGUENOS",
+          "text": "SIGUENOS<br>",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/TalaveraJazzFestival/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
         },
         {
@@ -1154,7 +1151,7 @@
             "postToLoad": 3,
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "bgImageRadio": false,
-            "bgColor": "#efefef",
+            "bgColor": "#f2f2f2",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.6,
@@ -1219,11 +1216,37 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_anchor": "features3-4p",
+          "_name": "footer1",
+          "_anchor": "footer1-2h",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Talavera Jazz."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-4z",
+          "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1236,7 +1259,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "4",
+            "columns": 4,
             "showImages": true,
             "showTitles": false,
             "showSubtitles": false,
@@ -1309,14 +1332,10 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logoalways302-600x298.png",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "title5": "Trendy Website Blocks",
@@ -1325,40 +1344,16 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/blanco-1-600x298.png",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-2h",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Talavera Jazz."
         }
       ]
     },
@@ -2014,6 +2009,46 @@
                 "image": "@PROJECT_PATH@/assets/images/25-4-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "26Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/26-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/26-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "26Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/26-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/26-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "26Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/26-2-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/26-2-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "26Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/26-3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/26-3-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "1",
@@ -2027,6 +2062,32 @@
           "_anchor": "gallery2-3o",
           "articleLayout": false,
           "allItem": "Todas"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#8c8c8c"
+            },
+            "P": {
+              "font-size": "19px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-52",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "<p>Muchisimas más imagénes en ...... <a href=\"https://www.facebook.com/pg/TalaveraJazzFestival/photos/?ref=page_internal\" target=\"_blank\" class=\"text-black\">facebook.com/TalaveraJazzFestival</a><a href=\"https://www.facebook.com/pg/TalaveraJazzFestival/photos/?ref=page_internal\" class=\"text-black\"></a></p>"
         },
         {
           "_tags": [
@@ -2062,15 +2123,21 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_anchor": "features3-4g",
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-50",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2079,7 +2146,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "4",
+            "columns": 4,
             "showImages": true,
             "showTitles": false,
             "showSubtitles": false,
@@ -2120,7 +2187,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logooaltalavera260-600x346.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logooaltalavera-600x346.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2152,14 +2219,10 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logoalways302-600x298.png",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "title5": "Trendy Website Blocks",
@@ -2168,14 +2231,10 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/blanco-600x298.png",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "title6": "Host Anywhere",
