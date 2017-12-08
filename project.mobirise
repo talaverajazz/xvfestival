@@ -22,14 +22,19 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 217,
-    "versionPublish": "3.12.1",
+    "uniqCompNum": 232,
+    "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "Utilizamos cookies para ofrecerte la mejor experiencia. ",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-103065297-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteUrl": "https://talaverajazz.github.io/xvfestival/",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -64,27 +69,27 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-2b",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": "41",
             "paddingTop": "3",
             "paddingBottom": "3",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://www.youtube.com/embed/wVuhIoSsi3w?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.3",
             "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -110,7 +115,7 @@
           },
           "title": "INTRO WITH BACKGROUND VIDEO",
           "text": "<i><b>DEL 21 AL 29 DE JULIO DE&nbsp;2017</b></i>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -172,6 +177,12 @@
           "_name": "menu",
           "_anchor": "menu-1i",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
             "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {
@@ -180,13 +191,7 @@
               "css": "'Roboto Condensed', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -195,8 +200,7 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "https://talaverajazz.github.io/xvfestival/",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -224,25 +228,25 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-16",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://www.youtube.com/embed/aD03FsV0M5I?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "PROGRAMA",
           "text": "Toda la programación del XV Festival de Jazz 'Ciudad de Talavera'. A celebrar desde el &nbsp;21 de Julio hasta el 29 de Julio de 2017.&nbsp;",
@@ -269,10 +273,10 @@
           "_name": "header3",
           "_anchor": "header3-1m",
           "_params": {
+            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
-            "showMeta": true
+            "bgColor": "#ffffff"
           },
           "title": "21 DE JULIO VIERNES",
           "meta": "INAUGURACIÓN"
@@ -292,26 +296,26 @@
           },
           "_anchor": "features3-3",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/21-2000x2798.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/21-2000x2798.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -399,27 +403,36 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#8c8c8c",
+              "font-size": "25px"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "msg-box5-53",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "45",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#f2f2f2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -445,16 +458,7 @@
           },
           "title": "22 &nbsp;JULIO SÁBADO",
           "text": "V CERTAMEN JÓVENES MÚSICOS DE JAZZ  en Puerta de Sevilla (c/ Carnicerías) 22:00 HORAS",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#8c8c8c",
-              "font-size": "25px"
-            },
-            "H3": {
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -479,25 +483,25 @@
           },
           "_anchor": "msg-box5-46",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "45",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -548,10 +552,10 @@
           "_name": "header3",
           "_anchor": "header3-1f",
           "_params": {
+            "showMeta": true,
             "paddingTop": "3",
             "paddingBottom": "2",
-            "bgColor": "#2e2e2e",
-            "showMeta": true
+            "bgColor": "#2e2e2e"
           },
           "title": "24 DE JULIO AL 29 DE JULIO",
           "meta": "'PLAZA DEL PAN'"
@@ -577,26 +581,26 @@
           },
           "_anchor": "features3-1d",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -705,26 +709,26 @@
           },
           "_anchor": "features3-1c",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -832,26 +836,26 @@
           },
           "_anchor": "features3-1e",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -865,7 +869,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "NOA LUR QUINTET",
+          "title1": "<a href=\"noalur.html\" class=\"text-white\">NOA LUR QUINTET</a>",
           "subtitle1": "<b>VIERNES 28 DE JULIO 22:30 HORAS</b><br>",
           "caption1": "Noa Lur (v); Jorge Vera (key); Mario Carrillo (b); Álberto Brenes (ds); Rafel Águila (ts,fl).",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -949,10 +953,10 @@
           "_name": "header3",
           "_anchor": "header3-1t",
           "_params": {
+            "showMeta": true,
             "paddingTop": "4",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
-            "showMeta": true
+            "bgColor": "#efefef"
           },
           "title": "JAZZ EN LA MAÑANA",
           "meta": "A PARTIR 13:00 HORAS"
@@ -986,10 +990,10 @@
           "_name": "header3",
           "_anchor": "header3-1p",
           "_params": {
+            "showMeta": true,
             "paddingTop": "3",
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
-            "showMeta": true
+            "bgColor": "#ffffff"
           },
           "title": "JAZZ DE MEDIANOCHE",
           "meta": "A PARTIR 00:30 HORAS"
@@ -1011,7 +1015,7 @@
             "bgColor": "#ffffff"
           },
           "text1": "<p><b>21 DE JULIO VIERNES</b> en <b>LA CUBA:</b> Música para escuchar \"Detroit la cuna del Soul\".</p><p><br></p><p><b>22 DE JULIO SABADO</b> en <b>FLY TO MANHATTAN:</b> Música en vivo \"JamSession\".</p><p><br></p><p><b>24 DE JULIO LUNES</b> en <b>FLY TO MANHATTAN:</b> Música para escuchar \"Recordando a Dizzy Gillespie\" y Noche de cine \"El cantor de Jazz\".</p><p><br></p><p><b>25 DE JULIO MARTES</b> en <b>TERRAZA 1990:</b> Música en vivo <b>\"Dark Chocolat\"</b>.</p><p><br></p><p><b>26 DE JULIO MIERCOLES</b> en <b>FLY TO MANHATTAN:</b> Música en vivo <b>\"Raúl Gama Trío\"</b>.</p><p><br></p>",
-          "text2": "<p><b>27 DE JULIO JUEVES</b> en <b>CASCO VIEJO:</b> Música en vivo <b>\"Electric Air Chords\"</b>.</p><p><br></p><p><b>28 DE JULIO VIERNES</b> en <b>DIVERXA 53:</b> Música en vivo <b>\"MelJazz Quartet\"</b>.</p><p><br></p><p><b>29 DE JULIO SABADO</b> en <b>EL CASINO:</b> Música en vivo \"Clausura del Festival y Jam Varios Artistas\".</p><p><br></p><p><b>11 DE AGOSTO VIERNES</b> en <b>LA CREMME:</b> <b>PREMIO FOTOGRAFÍA</b> DEL FESTIVAL (100€).</p>"
+          "text2": "<p><b>27 DE JULIO JUEVES</b> en <b>CASCO VIEJO:</b> Música en vivo <b>\"Electric Air Chords\"</b>.</p><p><br></p><p><b>28 DE JULIO VIERNES</b> en <b>DIVERXA 53:</b> Música en vivo <b>\"Meliazz Quartet\"</b>.</p><p><br></p><p><b>29 DE JULIO SABADO</b> en <b>EL CASINO:</b> Música en vivo \"Clausura del Festival y Jam Varios Artistas\".</p><p><br></p><p><b>11 DE AGOSTO VIERNES</b> en <b>LA CREMME:</b> <b>PREMIO FOTOGRAFÍA</b> DEL FESTIVAL (100€).</p>"
         },
         {
           "_styles": {
@@ -1028,10 +1032,10 @@
           "_name": "header3",
           "_anchor": "header3-1s",
           "_params": {
+            "showMeta": true,
             "paddingTop": "3",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
-            "showMeta": true
+            "bgColor": "#efefef"
           },
           "title": "JAZZ EN LAS ONDAS",
           "meta": "A PARTIR 12:30 HORAS"
@@ -1085,22 +1089,22 @@
           ],
           "_anchor": "testimonials2-3u",
           "_params": {
-            "count": "1",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "showTitle": true,
+            "showSubtitle": true,
             "showImages": true,
             "showName": false,
             "showBio": false,
+            "count": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/21-8-2000x1500.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "overlay": true,
-            "overlayOpacity": 0.2,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true
+            "overlayOpacity": 0.2
           },
           "title": "CERTAMEN FOTOGRAFÍAS",
           "subtitle": "24 JULIO – 5 AGOSTO"
@@ -1123,13 +1127,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/logo-2000x731.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "text": "SIGUENOS<br>",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/TalaveraJazzFestival/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
@@ -1142,20 +1146,20 @@
           "_name": "feed",
           "_anchor": "feed-2d",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
-            "youtube": "",
+            "postToLoad": 3,
             "facebook": "TalaveraJazzFestival",
             "twitter": "",
             "google": "",
-            "postToLoad": 3,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#f2f2f2",
+            "youtube": "",
             "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f"
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
           },
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
         },
@@ -1197,13 +1201,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
+            "overlayOpacity": 0.5,
             "facebook": true,
             "twitter": true,
             "google": true,
@@ -1222,13 +1226,13 @@
             "paddingTop": 2,
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2016 Talavera Jazz."
         },
@@ -1244,27 +1248,27 @@
           },
           "_anchor": "features1-4z",
           "_params": {
-            "columnsColor": "#ffffff",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
             "showImages": true,
             "showTitles": false,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": false
+            "showButtons": false,
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -1381,24 +1385,24 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-3s",
           "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
             "paddingTop": 3,
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
-            "showTitle": false,
-            "showText": false
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "TRENDY WEBSITE BLOCKS",
@@ -1419,25 +1423,25 @@
           },
           "_anchor": "msg-box5-3r",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "2",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1525,6 +1529,12 @@
           "_name": "menu",
           "_anchor": "menu-30",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
             "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {
@@ -1533,13 +1543,7 @@
               "css": "'Roboto Condensed', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1567,8 +1571,15 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": false,
+            "fullWidth": true,
+            "spacing": "1",
             "paddingTop": "1",
             "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "#ffffff",
+            "showText": false,
+            "filter": true,
             "images": [
               {
                 "tags": "21Julio",
@@ -2008,7 +2019,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/25-4-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/25-4-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "26Julio",
@@ -2049,15 +2060,288 @@
                 "image": "@PROJECT_PATH@/assets/images/26-3-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "27Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/27-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/27-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "27Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/27-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/27-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "27Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/27-2-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/27-2-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "27Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/27-3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/27-3-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "27Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/27-4-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/27-4-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "27Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/27-5-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/27-5-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "27Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/27-6-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/27-6-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "27Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/27-7-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/27-7-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "27Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/27-8-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/27-8-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "27Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/27-9-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/27-9-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "28Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "28Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "28Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-2-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28-2-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "28Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28-3-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "28Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-4-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28-4-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "28Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-5-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28-5-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "28Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-6-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28-6-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "28Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-7-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28-7-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "28Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-8-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28-8-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "28Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-9-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28-9-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "29Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/29-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "29Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/29-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "29Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29-2-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/29-2-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "29Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29-3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/29-3-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "29Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29-4-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/29-4-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "29Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29-5-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/29-5-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "29Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29-6-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/29-6-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "29Julio",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29-7-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/29-7-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": true,
-            "bgColor": "#ffffff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": false
+            ]
           },
           "_anchor": "gallery2-3o",
           "articleLayout": false,
@@ -2068,20 +2352,20 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-5o",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/pg/TalaveraJazzFestival/photos/?ref=page_internal\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>MÁS IMAGENES</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://www.facebook.com/pg/TalaveraJazzFestival/videos/?ref=page_internal\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>VIDEOS</a>",
           "_styles": {
             ".btn": {
               "font-size": "19px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
-          }
+          },
+          "_anchor": "buttons1-5o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/pg/TalaveraJazzFestival/photos/?ref=page_internal\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>MÁS IMAGENES</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://www.facebook.com/pg/TalaveraJazzFestival/videos/?ref=page_internal\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>VIDEOS</a>"
         },
         {
           "_tags": [
@@ -2098,13 +2382,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
+            "overlayOpacity": 0.5,
             "facebook": true,
             "twitter": true,
             "google": true,
@@ -2125,27 +2409,27 @@
           },
           "_anchor": "features1-50",
           "_params": {
-            "columnsColor": "#ffffff",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
             "showImages": true,
             "showTitles": false,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": false
+            "showButtons": false,
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -2246,13 +2530,13 @@
             "paddingTop": 2,
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2016 Talavera Jazz."
         }
@@ -2324,6 +2608,12 @@
           "_name": "menu",
           "_anchor": "menu-5f",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
             "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {
@@ -2332,13 +2622,7 @@
               "css": "'Roboto Condensed', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -2369,13 +2653,13 @@
             "paddingTop": 2,
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2016 Talavera Jazz."
         },
@@ -2384,27 +2668,34 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#7c706b"
+            }
+          },
           "_anchor": "header1-5i",
           "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
             "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/kennygarrett2-2000x1024.jpg",
-            "bgColor": "#a07e49",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": "0",
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
+            "overlayOpacity": "0"
           },
-          "title": "FULL SCREEN INTRO",
+          "title": "KENNY GARRETT",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -2423,10 +2714,10 @@
           "_name": "header3",
           "_anchor": "header3-5k",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Kenny Garrett",
           "meta": "fuente: wikipedia"
@@ -2459,10 +2750,10 @@
           "_name": "header3",
           "_anchor": "header3-5m",
           "_params": {
+            "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Kenny Garrett Quintet",
           "meta": "Jazzwoche Burghausen 2015<br>Live at 46. Internationale Jazzwoche Burghausen, Wackerhalle, Germany, March 19, 2015<br>"
@@ -2474,10 +2765,10 @@
           "_name": "image2",
           "_anchor": "image2-5l",
           "_params": {
+            "showText": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff",
-            "showText": false
+            "bgColor": "#fff"
           },
           "media": {
             "image": {
@@ -2561,6 +2852,12 @@
           "_name": "menu",
           "_anchor": "menu-5q",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
             "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {
@@ -2569,13 +2866,7 @@
               "css": "'Roboto Condensed', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -2606,13 +2897,13 @@
             "paddingTop": 2,
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2016 Talavera Jazz."
         },
@@ -2621,27 +2912,34 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#c1c1c1"
+            }
+          },
           "_anchor": "header1-5w",
           "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
             "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/pedro-ruy-blas-quartet-2000x1336.jpg",
-            "bgColor": "#a07e49",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
-          "title": "FULL SCREEN INTRO",
+          "title": "PEDRO RUY-BLAS",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -2660,10 +2958,10 @@
           "_name": "header3",
           "_anchor": "header3-5x",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Pedro Ruy-Blas",
           "meta": "fuente: wikipedia"
@@ -2696,10 +2994,10 @@
           "_name": "header3",
           "_anchor": "header3-5v",
           "_params": {
+            "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Pedro Ruy Blas Quartet",
           "meta": "A Whiter Shade Of Pale en Clazzjazz 2014 "
@@ -2711,10 +3009,10 @@
           "_name": "image2",
           "_anchor": "image2-5s",
           "_params": {
+            "showText": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff",
-            "showText": false
+            "bgColor": "#fff"
           },
           "media": {
             "image": {
@@ -2727,6 +3025,240 @@
               "loop": false,
               "active": true,
               "aspectratio": "16:9"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        }
+      ]
+    },
+    "noalur.html": {
+      "settings": {
+        "title": "Noa Lur",
+        "meta_descr": "Noa Lur bio"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-61",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#2e2e2e",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://talaverajazz.github.io/xvfestival/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERAJAZZ FESTIVAL</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-53\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-3u\" aria-expanded=\"false\">CERTAMEN FOTOGRAFÍAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-4r\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"imagenes.html\" aria-expanded=\"false\">IMAGENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-62",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Talavera Jazz."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#e68973",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "header1-63",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/noa-lur-troublemaker-2000x1844.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "NOA LUR",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-64",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Noa Lur",
+          "meta": "fuente: <a href=\"https://www.noalur.com/index.php\" target=\"_blank\" class=\"text-success\">www.noalur.com</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-65",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>El propio Bobby McFerrin, 10 veces ganador del Grammy, la tuvo como telonera para su concierto en el MadGarden Festival y dice la prestigiosa revista “Cuadernos de Jazz” de ella que es \"una voz exuberante y juguetona, femenina, talentosa, amplia en registros sonoros y dramáticos, de encantador y afinado sentido lúdico que resulta verdaderamente cautivadora”.</p><p><br></p><p>Premiada como una de las mejores voces jóvenes del jazz europeo en el Festival Internacional “Nomme Jazz” de Estonia, Noa Lur ha alcanzado el Número 1 en ventas en Itunes Jazz con su single “Moody ́s Mood For Love”, tema incluido en la Edición Especial de su primer y exitoso disco “Badakit” con el que ha visitado grandes festivales y salas europeas como el Nardis Jazz Club de Estambul, Bogui Jazz de Madrid, Madgarden Festival o Jazzablanca Jazz Festival compartiendo cartel con artistas de la talla de Raúl Midón, Richard Bona, George Benson, Christian McBride...</p><p><br></p><p>Ahora lanza “Troublemaker” su segundo disco, una gran producción que está teniendo gran acogida por parte de la audiencia y que ha comenzado con un doble Sold Out en su presentación en Bogui Jazz de Madrid.</p><p>Nuevo álbum: Troublemaker</p><p><br></p><p>Tras el éxito de la presentación de TROBLEMAKER en Jazzablanca Jazz Festival de Casablanca, donde Noa ha compartido cartel con Richard Bona, Hindi Zahra y Jamie Cullum entre otros, acaba de presentar en Bogui Jazz de Madrid con exitoso sold out.</p><p><br></p><p>Esta cantante considerada por allaboutjazz.com como “una auténtica fuerza de la naturaleza” continuará su tour de presentación por Ingenial Jazz &amp; Wine Festival, Goierriko Jazzaldia, Granjazz Festival, Nardis Jazz Club de Estambul, Festival Jazz a la Cité de Paris, Festival de Jazz de Barcelona... Un proyecto con un formato de quarteto base en el que se nos sorprende con la presencia de una deslumbrante big band en ocasiones. Sonido contemporáneo, abierto y experimental, melodías directas y arreglos que pasan por el groove y los sonidos europeos sin olvidar sus raíces vascas. Un disco fresco con temas exclusivamente originales de Noa y algunos grandes compositores del jazz nacional. Un mensaje positivo a la par que reivindicativo. Evolución y re-volución interior, cambio, acción.</p><p><br></p><p>Troublemaker ha sido mezclado y masterizado por el gran ingeniero Pete Karam (Pat Metheny, Ray Charles, Eric Clapton...).</p><p><br></p><p>Producido por Noa Lur y Moisés Sánchez, con arreglos musicales de Moisés y la participación de músicos de primera. Especial mención a las grandes colaboraciones como la del renombrado trompetista Christian Scott o el saxofonista Antonio Lizana.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-66",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.elmundo.es/pais-vasco/2015/05/09/554de1d1ca4741be328b4572.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ENTREVISTA NOA LUR</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://elpais.com/cultura/2015/07/08/babelia/1436365819_883981.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ARTICULO NOA LUR</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-67",
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=CNyAcPTTPxs",
+              "autoplay": false,
+              "loop": false,
+              "active": true
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
