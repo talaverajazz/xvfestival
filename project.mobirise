@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "XVFESTIVAL",
+    "name": "XV Festival Jazz",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -199,8 +199,9 @@
               "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://talaverajazz.github.io/xvfestival/",
-              "title": ""
+              "link": "https://talaverajazz.github.io/talaverajazzfestival/",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1551,7 +1552,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://talaverajazz.github.io/xvfestival/",
+              "link": "https://talaverajazz.github.io/talaverajazzfestival/",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2630,7 +2631,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://talaverajazz.github.io/xvfestival/",
+              "link": "https://talaverajazz.github.io/talaverajazzfestival/",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2874,7 +2875,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://talaverajazz.github.io/xvfestival/",
+              "link": "https://talaverajazz.github.io/talaverajazzfestival/",
               "title": "",
               "linkInNewWindow": false
             },
@@ -3119,7 +3120,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://talaverajazz.github.io/xvfestival/",
+              "link": "https://talaverajazz.github.io/talaverajazzfestival/",
               "title": "",
               "linkInNewWindow": false
             },
