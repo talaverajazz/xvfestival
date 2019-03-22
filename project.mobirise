@@ -1143,31 +1143,6 @@
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/TalaveraJazzFestival/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
         },
         {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": "1",
-            "postToLoad": 3,
-            "facebook": "TalaveraJazzFestival",
-            "twitter": "",
-            "google": "",
-            "youtube": "",
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "alias": "social-feed",
-          "_tags": [
-            "Extensión"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-6g"
-        },
-        {
           "_tags": [
             "Theme"
           ],
