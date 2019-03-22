@@ -1146,7 +1146,7 @@
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "postToLoad": 3,
             "facebook": "TalaveraJazzFestival",
             "twitter": "",
