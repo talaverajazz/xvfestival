@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "XV Festival Jazz",
+    "name": "XVFESTIVAL",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -19,21 +19,25 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 232,
-    "versionPublish": "4.5.2",
+    "uniqCompNum": 233,
+    "versionPublish": "4.9.3",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "Utilizamos cookies para ofrecerte la mejor experiencia. ",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-103065297-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "siteUrl": "https://talaverajazz.github.io/xvfestival/",
-    "sitemapSwitcherAuto": "on",
+    "siteFonts": [],
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
+    "siteUrl": "https://talaverajazz.github.io/xvfestival/",
+    "sitemapSwitcherAuto": "on",
+    "gdpr": "",
+    "сanonical-url": "",
     "sitemapSwitcher": "on"
   },
   "pages": {
@@ -126,7 +130,7 @@
               "color": "#ffffff",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "16px"
+              "font-size": "22px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -140,10 +144,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -184,7 +188,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#2e2e2e",
-            "fontSize": "0.9",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -198,10 +202,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://talaverajazz.github.io/talaverajazzfestival/",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "XV FESTIVAL JAZZ CIUDAD DE TALAVERA 2017",
+              "link": "https://talaverajazz.github.io/xvfestival/",
+              "title": "XV FESTIVAL JAZZ CIUDAD DE TALAVERA 2017"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -209,7 +212,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERAJAZZ FESTIVAL</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">XV FESTIVAL JAZZ CIUDAD DE TALAVERA</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-53\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-3u\" aria-expanded=\"false\">CERTAMEN FOTOGRAFÍAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-4r\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"imagenes.html\" aria-expanded=\"false\">IMAGENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -292,7 +295,7 @@
               "text-align": "center"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_anchor": "features3-3",
@@ -346,9 +349,9 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "PUENTE DE CASTILLA LA MANCHA 'PICNIC JAZZ'",
+          "title2": "PUENTE DE CASTILLA LA MANCHA<br>'PICNIC JAZZ'",
           "subtitle2": "22:00 HORAS",
-          "caption2": "- CARAVANA JAM<br>- RED HOUSE",
+          "caption2": "- CARAVANA JAM +&nbsp;&nbsp;RED HOUSE",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -631,7 +634,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "LEGANES BIG BAND con DAVID DOMINIQUE",
+          "title2": "LEGANES BIG BAND con DAVID DOMIMIQUE",
           "subtitle2": "<b>MARTES 25 DE JULIO 22:30 HORAS</b>",
           "caption2": "Victor Muñoz (as,cl,fl); L. Miguel Rodríguez (as); M. Ángel Pantoja, Javier Ochoa (ts); Ricardo Mateos (bs); Ängel M. Campos, Juan Moreno, Noelia Garcia, Vicente Riera (tp); Jorge Moreno, Fernando Jorge, Rebeca Muñoz, Santiago Rojo (tb); Emilio Orejuela (g); Raúl Santana (p); Fer Vilar (b); Adrián Alameda (ds); David Dominique (v); Juan Moreno (arr, dir).<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1140,29 +1143,29 @@
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/TalaveraJazzFestival/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
         },
         {
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-2d",
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "postToLoad": 3,
             "facebook": "TalaveraJazzFestival",
             "twitter": "",
             "google": "",
             "youtube": "",
             "bgColorRadio": true,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#efefef",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "overlay": true,
             "overlayColor": "#7e9b9f",
             "overlayOpacity": 0.6
           },
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+          "alias": "social-feed",
+          "_tags": [
+            "Extensión"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-6g"
         },
         {
           "_tags": [
@@ -1235,7 +1238,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Talavera Jazz."
+          "text": "<a href=\"https://talaverajazz.github.io/\">© TalaveraJazz</a>"
         },
         {
           "_tags": [
@@ -1479,7 +1482,7 @@
               "color": "#ffffff",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "16px"
+              "font-size": "22px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1493,10 +1496,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1537,7 +1540,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#2e2e2e",
-            "fontSize": "0.9",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -1551,9 +1554,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://talaverajazz.github.io/talaverajazzfestival/",
-              "title": "",
+              "alt": "XV FESTIVAL JAZZ CIUDAD DE TALAVERA 2017",
+              "link": "https://talaverajazz.github.io/xvfestival/",
+              "title": "XV FESTIVAL JAZZ CIUDAD DE TALAVERA 2017",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -1562,7 +1565,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERAJAZZ FESTIVAL</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">XV FESTIVAL JAZZ CIUDAD DE TALAVERA</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-53\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-3u\" aria-expanded=\"false\">CERTAMEN FOTOGRAFÍAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-4r\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"imagenes.html\" aria-expanded=\"false\">IMAGENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -2539,7 +2542,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Talavera Jazz."
+          "text": "<a href=\"https://talaverajazz.github.io/\">© TalaveraJazz</a>"
         }
       ]
     },
@@ -2558,7 +2561,7 @@
               "color": "#ffffff",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "16px"
+              "font-size": "22px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2572,10 +2575,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2616,7 +2619,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#2e2e2e",
-            "fontSize": "0.9",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -2630,9 +2633,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://talaverajazz.github.io/talaverajazzfestival/",
-              "title": "",
+              "alt": "XV FESTIVAL JAZZ CIUDAD DE TALAVERA 2017",
+              "link": "https://talaverajazz.github.io/xvfestival/",
+              "title": "XV FESTIVAL JAZZ CIUDAD DE TALAVERA 2017",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -2641,7 +2644,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERAJAZZ FESTIVAL</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">XV FESTIVAL JAZZ CIUDAD DE TALAVERA</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-53\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-3u\" aria-expanded=\"false\">CERTAMEN FOTOGRAFÍAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-4r\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"imagenes.html\" aria-expanded=\"false\">IMAGENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -2662,7 +2665,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Talavera Jazz."
+          "text": "<a href=\"https://talaverajazz.github.io/\">© TalaveraJazz</a>"
         },
         {
           "_tags": [
@@ -2802,7 +2805,7 @@
               "color": "#ffffff",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "16px"
+              "font-size": "22px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2816,10 +2819,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2860,7 +2863,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#2e2e2e",
-            "fontSize": "0.9",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -2874,9 +2877,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://talaverajazz.github.io/talaverajazzfestival/",
-              "title": "",
+              "alt": "XV FESTIVAL JAZZ CIUDAD DE TALAVERA 2017",
+              "link": "https://talaverajazz.github.io/xvfestival/",
+              "title": "XV FESTIVAL JAZZ CIUDAD DE TALAVERA 2017",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -2885,7 +2888,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERAJAZZ FESTIVAL</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">XV FESTIVAL JAZZ CIUDAD DE TALAVERA</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-53\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-3u\" aria-expanded=\"false\">CERTAMEN FOTOGRAFÍAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-4r\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"imagenes.html\" aria-expanded=\"false\">IMAGENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -2906,7 +2909,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Talavera Jazz."
+          "text": "<a href=\"https://talaverajazz.github.io/\">© TalaveraJazz</a>"
         },
         {
           "_tags": [
@@ -3047,7 +3050,7 @@
               "color": "#ffffff",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "16px"
+              "font-size": "22px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -3061,10 +3064,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3105,7 +3108,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#2e2e2e",
-            "fontSize": "0.9",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -3119,9 +3122,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://talaverajazz.github.io/talaverajazzfestival/",
-              "title": "",
+              "alt": "XV FESTIVAL JAZZ CIUDAD DE TALAVERA 2017",
+              "link": "https://talaverajazz.github.io/xvfestival/",
+              "title": "XV FESTIVAL JAZZ CIUDAD DE TALAVERA 2017",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -3130,7 +3133,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TALAVERAJAZZ FESTIVAL</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://talaverajazz.github.io/xvfestival/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">XV FESTIVAL JAZZ CIUDAD DE TALAVERA</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1m\" aria-expanded=\"false\">INAUGURACIÓN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-53\" aria-expanded=\"false\">V CERTAMEN JOVENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\" aria-expanded=\"false\">PLAZA DEL PAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1t\" aria-expanded=\"false\">JAZZ EN LA MAÑANA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\" aria-expanded=\"false\">JAZZ DE MEDIANOCHE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-3u\" aria-expanded=\"false\">CERTAMEN FOTOGRAFÍAS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-4r\" aria-expanded=\"false\">SIGUENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"imagenes.html\" aria-expanded=\"false\">IMAGENES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-16\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -3151,7 +3154,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Talavera Jazz."
+          "text": "<a href=\"https://talaverajazz.github.io/\">© TalaveraJazz</a>"
         },
         {
           "_tags": [

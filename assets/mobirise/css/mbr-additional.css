@@ -416,7 +416,7 @@ h6,
   color: #c0a375;
 }
 .scrollToTop_wraper {
-  opacity: 0 !important;
+  display: none;
 }
 #msg-box6-2b .mbr-section-title,
 #msg-box6-2b .lead p {
@@ -436,7 +436,7 @@ h6,
 #menu-1i .navbar-caption {
   color: #ffffff;
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 16px;
+  font-size: 22px;
 }
 #menu-1i .navbar-toggler {
   color: #ffffff;
@@ -451,11 +451,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-1i .link {
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 #menu-1i .dropdown-item,
 #menu-1i .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.083rem;
 }
 #menu-1i .link:hover,
 #menu-1i .dropdown-item:hover,
@@ -519,7 +519,7 @@ h6,
   text-align: center;
 }
 #features3-3 P {
-  text-align: center;
+  text-align: left;
 }
 #msg-box5-53 P {
   color: #8c8c8c;
@@ -671,7 +671,7 @@ h6,
 #menu-30 .navbar-caption {
   color: #ffffff;
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 16px;
+  font-size: 22px;
 }
 #menu-30 .navbar-toggler {
   color: #ffffff;
@@ -686,11 +686,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-30 .link {
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 #menu-30 .dropdown-item,
 #menu-30 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.083rem;
 }
 #menu-30 .link:hover,
 #menu-30 .dropdown-item:hover,
@@ -748,7 +748,7 @@ h6,
 #menu-5f .navbar-caption {
   color: #ffffff;
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 16px;
+  font-size: 22px;
 }
 #menu-5f .navbar-toggler {
   color: #ffffff;
@@ -763,11 +763,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-5f .link {
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 #menu-5f .dropdown-item,
 #menu-5f .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.083rem;
 }
 #menu-5f .link:hover,
 #menu-5f .dropdown-item:hover,
@@ -833,7 +833,7 @@ h6,
 #menu-5q .navbar-caption {
   color: #ffffff;
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 16px;
+  font-size: 22px;
 }
 #menu-5q .navbar-toggler {
   color: #ffffff;
@@ -848,11 +848,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-5q .link {
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 #menu-5q .dropdown-item,
 #menu-5q .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.083rem;
 }
 #menu-5q .link:hover,
 #menu-5q .dropdown-item:hover,
@@ -918,7 +918,7 @@ h6,
 #menu-61 .navbar-caption {
   color: #ffffff;
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 16px;
+  font-size: 22px;
 }
 #menu-61 .navbar-toggler {
   color: #ffffff;
@@ -933,11 +933,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-61 .link {
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 #menu-61 .dropdown-item,
 #menu-61 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.083rem;
 }
 #menu-61 .link:hover,
 #menu-61 .dropdown-item:hover,
